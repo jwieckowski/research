@@ -1,0 +1,221 @@
+
+The proposed method of RANking COMparison (RANCOM) for assessing the criteria relevance based on expert subjective knowledge and opinion requires establishing the ranking of the criteria. Similarly to the Ranking method, the hierarchy of criteria importance should be defined, assigning lower values to more crucial parameters. The proposed method allows for determining criteria ranking with ties while providing properly established weights vector, meeting the condition of vector sum equals 1. Moreover, the main factors taken into consideration were to propose the technique which:
+
+\begin{itemize}
+    \item Can be easily used by less experienced experts;
+    \item Is resistant to the inconsistent definitions of the relationship between criteria;
+    \item Is intuitive to use;
+    \item Is less time-consuming for complex problems;
+    \item Handles the inaccuracies in expert judgments
+    \item Is highly repeatable
+\end{itemize}
+
+To present a formal notation of the proposed subjective weighting method, the subsequent steps should be presented. In addition, the flow of method application is presented in Figure \ref{fig:rancom_fc}. \\
+
+\begin{figure*}[h!]
+	\centerline{
+    	\includegraphics[width=0.8\textwidth]{img/rancom-fc.pdf}
+	}
+	\caption{Flowchart of the subsequent steps in the RANCOM method.}
+	\label{fig:rancom_fc}
+\end{figure*}
+
+\noindent \textbf{Step 1. Define the criteria ranking} \\
+
+The expert determines the position of the criteria regarding other factors. The designated ranking should be defined as lower values assigned to more significant criteria. Additionally, the criteria may have equal positions in the ranking, which means that ties are allowed during the expert judgment. The criteria ranking could be defined with subsequent values (i.e., [1, 2, 3, 4, 5] for five criteria) or could consist of more diverse values (i.e., [1, 5, 9, 12, 18] for five criteria). However, the differences that occurred in the ranking vector would not affect the calculated weights unless they include different criteria hierarchy. \\
+
+% \begin{table}[h!]
+%     \centering
+%     \begin{tabular}{|l|c|c|c|c|c|c|c|c|}
+%     \hline
+%          $C_{i}$ & $C_{1}$ & $C_{2}$ & $C_{3}$ & $C_{4}$ & $C_{5}$ & $C_{6}$ & $C_{7}$\\ \hline
+%          Ranking & 5 & 2 & 1 & 2 & 3 & 6 & 4 \\ \hline
+%     \end{tabular}
+%     \caption{Example of criteria ranking done by expert.}
+%     \label{tab:ex_rank}
+% \end{table}
+
+% \noindent \textbf{Step 2 - Determine the assessment function.}  \\
+
+% This step requires the expert do determine the way in which criteria will be compared with each other. Assuming that lower values describe more important criteria, the assessment function could be defined as follows (\ref{eq:p1}): 
+
+% \begin{equation}
+%     \alpha_{ij} = \left\{ \begin{array}{lccccr}
+%         IF & C_{i} &  < & C_{j} & RETURN & 1  \\
+%         IF & C_{i} & = & C_{j} & RETURN & 0.5 \\
+%         IF & C_{i} & > &  C_{j} & RETURN & 0  \\
+%     \end{array}
+%     \right.
+%     \label{eq:p1}
+% \end{equation}
+
+% The criteria relevance comparison contains three case, as presented above. The determined assessment function will be then used while establishing the matrix of ranking comparison.  \\
+
+\noindent \textbf{Step 2. Establish the Matrix of Ranking Comparison} \\ 
+
+% Based on the created assessment function, the MAtrix of ranking Comparison ($MAC$) is defined (\ref{eq:mac}). It results from a pairwise comparison of the positions from the ranking established by the expert. The $MAC$ matrix contains the results of the criteria relevance comparison.
+The MAtrix of ranking Comparison ($MAC$) is determined by using a pairwise comparison of the positions from the ranking made by the expert. The comparison result is determined as $\alpha_{ij}$. Based on that, the $MAC$ matrix can be represented as (\ref{eq:mac}):
+
+\begin{equation}
+    M A C=\bbordermatrix{ & C_1 & C_2 & \ldots & C_n \cr
+    C_1 & \alpha_{11} & \alpha_{12} & \ldots & \alpha_{1n} \cr
+    C_2 & \alpha_{21} & \alpha_{22} & \ldots & \alpha_{2n} \cr
+    \vdots & \vdots & \vdots & \ddots & \vdots \cr
+    C_n & \alpha_{n1} & \alpha_{n2} & \ldots & \alpha_{nn}}
+\label{eq:mac}
+\end{equation}
+
+\noindent where $n$ is the number of criteria taken into account in the problem, and $\alpha_{ij}$ is determined from (\ref{eq:p1}): \\
+
+\begin{equation}
+    \alpha_{ij} = \left\{ \begin{array}{lccr}
+        IF & f \left( C_i\right)   <  f \left( C_j\right) & THEN & 1  \\
+        IF & f \left( C_i\right) =  f \left( C_j\right) & THEN & 0.5 \\
+        IF & f \left( C_i\right)  >   f \left( C_j\right) & THEN & 0  \\
+    \end{array}
+    \right.
+    \label{eq:p1}
+\end{equation}
+
+\noindent where $f \left(C\right)$ is a significance function of criterion $C$. \\
+
+% \noindent where $n$ is the number of criteria taken into account in the problem, and $\alpha_{ij}$ is determined from (\ref{eq:p1}): \\
+
+% \begin{equation}
+%     \alpha_{ij} = \left\{ \begin{array}{lccccr}
+%         IF & C_{i} &  < & C_{j} & RETURN & 1  \\
+%         IF & C_{i} & = & C_{j} & RETURN & 0.5 \\
+%         IF & C_{i} & > &  C_{j} & RETURN & 0  \\
+%     \end{array}
+%     \right.
+%     \label{eq:p1}
+% \end{equation}
+
+\noindent \textbf{Step 3. Calculate the Summed Criteria Weights} \\
+
+Based on the obtained $MAC$, the horizontal vector of the Summed Criteria Weights ($SCW$) is obtained as follows (\ref{eq:p2}).
+
+\begin{equation}
+SCW_i=\sum^{n}_{j=1}\alpha_{ij}
+\label{eq:p2}
+\end{equation}
+
+% \begin{equation}
+%     MEJ = \left( \begin{array}{ccccccc}
+%         0.5 & 0.0 & 0.0 & 0.0 & 0.0 & 1.0 & 0.0 \\ 
+%         1.0 & 0.5 & 0.0 & 0.5 & 1.0 & 1.0 & 1.0 \\
+%         1.0 & 1.0 & 0.5 & 1.0 & 1.0 & 1.0 & 1.0 \\
+%         1.0 & 0.5 & 0.0 & 0.5 & 1.0 & 1.0 & 1.0 \\
+%         1.0 & 0.0 & 0.0 & 0.0 & 0.5 & 1.0 & 1.0 \\
+%         0.0 & 0.0 & 0.0 & 0.0 & 0.0 & 0.5 & 0.0 \\
+%         1.0 & 0.0 & 0.0 & 0.0 & 0.0 & 1.0 & 0.5 \\
+%     \end{array}
+%     \right)
+%     \label{eq:ex_mej}
+% \end{equation}
+
+% % \begin{equation}
+% %     SJ = \left( \begin{array}{ccccccc}
+% %         1.5 & 5.0 & 6.5 & 5.0 & 3.5 & 0.5 & 2.5 \\
+% %     \end{array}
+% %     \right)
+% %     \label{eq:ex_sj}
+% % \end{equation}
+
+% \begin{equation}
+%     SJ = \left( \begin{array}{c}
+%         1.5 \\ 5.0 \\ 6.5 \\ 5.0 \\ 3.5 \\ 0.5 \\ 2.5 \\
+%     \end{array}
+%     \right)
+%     \label{eq:ex_sj}
+% \end{equation}
+
+
+\noindent \textbf{Step 4. Calculate the final criteria weights} \\
+
+Finally, values of preference are approximated for each criterion. As a result, the horizontal vector $W$ is obtained, where the $i-th$ row contains the approximate preference value for $C_i$. The weights for the set of criteria are obtained as (\ref{eq:p3}):
+
+\begin{equation}
+    w_{i} = \frac{SCW_{i}}{\sum^{n}_{i=1} SCW_{i}} 
+\label{eq:p3}
+\end{equation}
+
+% \begin{equation}
+%     P = \left( \begin{array}{c}
+% 0.06122449 \\ 0.20408163 \\ 0.26530612 \\ 0.20408163 \\ 0.14285714 \\ 0.02040816 \\ 0.10204082 \\
+%     \end{array}
+%     \right)
+%     \label{eq:ex_p}
+% \end{equation}
+
+%  TODO
+% 1. Tutasj pokazujemy RANCOM - O ile się nie mylę to wstep jeden powinniśmy tutaj dodać 4 możliwości. eksport podaje:
+% i.  Ranking
+% ii.  Scoring
+% iii.  Sortuje za pomocą Merge Sort
+% iv.  Metodą turniejową
+% 2. Teraz powinniśmy pokazać przykład zastosowania taki akademicki dla każdego z wyżej wymienionych rodzaju podania ranking. należy opracować typical example. a następnie za pomocą tego przykładu pokazać jak można podać ranking jak można podać scoring, jak posortować za pomocą martes sport i jak podać metody turnieju. Na jakiejś 10 wartościowej liście?
+% 3.   w podsumowaniu podamy że jedną z ciekawszych rzeczy dla mało w tajemniczo ekspertów w wahających się i tak dalej i tak dalej jest metoda turniejowa. Są to tacy którzy nie mogą tego wykonać przez ranking scoring.
+% 4. Dopisac ze dodatkowo można zmierzyć za pomocą metody turniejowej niespojnosc macierzy MEC. Wykorzystujac triady (ICCS)
+
+% Opis 4 możliwości, w których można stosować RANCOM. 1) Ranking 2) Scoring 3) Merge Sort 4) Metoda turniejowa. 
+
+% Pokazać przykład akademicki na 10 kryteriach i jak posortować kryteria według każdego z tych podejść. 
+
+% Wykorzystujac triady można zmierzyć niespójności w macierzy MAC przy pomocy metody turniejowej.
+
+% W celu ustalenia relacji porządkującej kryteria, ekspert korzystając z metody RANCOM może zdefiniować ich ranking za pomocą różnych podejść. Możliwości, z których można korzystać w ramach zaproponowanej metody to: 1) Ranking 2) Scoring 3) Merge Sort 4) Metoda turniejowa. Każda z dostępnych opcji ma na celu zapewnić ekspertowi zdefiniowanie rankingu kryteriów w sposób ustrukturyzowany. Dodatkowo, wraz ze wzrostem ilości czynników w problemie, ustalenie relacji porządkującej te kryteria może stanowić problem, a przy ocenie mogą pojawić się niepewności. W związku z tym wykorzystanie zaproponowanych podejść ma ułatwić ekspertowi to zadanie. Poniżej przedstawiony został przykład zawierający problem wielokryterialny liczący 10 czynników, w którym to zaprezentowany został przykładowy sposób użycia każdej z możliwości do podania rankingu. 
+An expert using the RANCOM method can define their ranking using different approaches to establish an ordering relationship between the criteria. The possibilities that can be used within the proposed method are: 1) Ranking; 2) Scoring; 3) Sort algorithm; 4) Tournament method. Each available option aims to provide the expert with a structured definition of the criteria ranking. In addition, as the number of factors in the problem increases, establishing an ordering relationship for these criteria can be challenging, and inaccuracies may arise in the evaluation. Therefore, using the proposed approaches is intended to simplify this task for the expert. An example containing a multi-criteria problem with 10 criteria is presented below, in which an example of how to use each possibility to give a ranking is shown. The car selection was used as the problem to illustrate how different approaches can be used to determine criteria ranking. Factors that were taken into consideration are listed as follows: car price ($C_{1}$), production year ($C_{2}$), exterior color ($C_{3}$), car brand ($C_{4}$), mileage ($C_{5}$), failure rate ($C_{6}$), average fuel consumption ($C_{7}$), price of replacement parts ($C_{8}$), interior equipment ($C_{9}$), and technical parameters ($C_{10}$). \\
+
+\noindent \textbf{1) Ranking}
+
+This approach requires the expert to establish a direct order of criteria importance based on their relevance. As a result, in the considered problem of a car selection regarding 10 criteria, an expert should define a vector of values with 10 elements. Each value should represent the position on which a given criterion is placed in the importance hierarchy. Lower values represent more important factors in the assessment. Since the RANCOM method allows for ties, they can also appear in the order determined by the expert. The subjective order of criteria for the described problem is presented in Table \ref{tab:example_ranking}. \\
+
+\begin{table}[h]
+	% \caption{Criteria order determined with the ranking approach for the problem of car selection.}
+    \caption{Criteria order with use of the ranking approach - car selection problem.}
+	\label{tab:example_ranking}
+	\begin{tabular*}{\hsize}{@{\extracolsep{\fill}}lcccccccccc@{}}
+		\toprule
+		$C_{i}$ & $C_{1}$ & $C_{2}$ & $C_{3}$ & $C_{4}$ & $C_{5}$ & $C_{6}$ & $C_{7}$ & $C_{8}$ & $C_{9}$ & $C_{10}$ \\
+		\midrule
+		Order & 2 & 1 & 10 & 6 & 3 & 5 & 4 & 9 & 8 & 7\\
+		\bottomrule
+	\end{tabular*}
+\end{table}
+
+\noindent \textbf{2) Scoring}
+
+Determining criteria order based on the scoring approach requires the expert to rate each criterion to establish the relevance of subsequent factors. Each rate  is represented by a score, which reflects the importance that can be used in the ranking definition. This approach can be used to determine the criteria order ranking, or the result of comparing the scores assigned by the expert can be used to fill the MAtrix of ranking Comparison ($MAC$). The score ranges should be determined at the initial phase to limit the scores that the expert can use in the scoring process. The example of establishing the ranking order based on the scores assigned by the expert is presented in Table \ref{tab:example_scoring}. The scoring range in the example was defined as values from $0$ to $100$, where greater values represent more relevant factors.
+
+In this approach, higher values represent a more important criterion. It translates into the representation of the significance function of criterion ($f(C)$), where higher values compared with lower values should produce higher values in $MAC$. On the other hand, while using the scoring approach to fill the $MAC$, the significance function of criterion ($f(C)$) should be used to produce the result of criteria comparison, and it should result in lower values in $MAC$ when the expert assigns a higher score to criterion. However, both approaches should produce an identical $MAC$ matrix. \\
+
+\begin{table}[h]
+	% \caption{Criteria importance determined with the scoring approach for the problem of car selection.}
+    \caption{Criteria order with use of the scoring approach - car selection problem.}
+	\label{tab:example_scoring}
+	\begin{tabular*}{\hsize}{@{\extracolsep{\fill}}lcccccccccc@{}}
+		\toprule
+		$C_{i}$ & $C_{1}$ & $C_{2}$ & $C_{3}$ & $C_{4}$ & $C_{5}$ & $C_{6}$ & $C_{7}$ & $C_{8}$ & $C_{9}$ & $C_{10}$ \\
+		\midrule
+		Score & 95 & 100 & 15 & 60 & 85 & 70 & 80 & 25 & 40 & 50 \\
+		Order & 2 & 1 & 10 & 6 & 3 & 5 & 4 & 9 & 8 & 7\\
+		\bottomrule
+	\end{tabular*}
+\end{table}
+
+\noindent \textbf{3) Sort algorithm }
+
+As the number of criteria considered in the problem increases, it could be challenging to determine the criteria order without hesitations. To facilitate the process of defining the final ranking, some simple sorting algorithms can be used. They are based on a structured and iterative approach, allowing for controlled value comparisons. Some techniques split the problem into smaller sub-problems, reducing the dimensionality of the task that the expert must face. Moreover, often they offer lower computational complexity, which reduces the comparisons that need to be made. To this end, the Merge sort algorithm is recommended to use to facilitate the process of determining the criteria order. However, other sorting algorithms can be used for this purpose. In the following example, the Merge sort algorithm is applied to split the problem into smaller parts and help the expert define the final ranking. The flow of the algorithm usage in the determined car selection problem is presented in Figure \ref{fig:example_ms}.
+
+\begin{figure}[h!]
+	\centerline{
+    	\includegraphics[width=0.5\textwidth]{img/merge_sort_long.pdf}
+	}
+	\caption{Criteria ranking order determined with the sort algorithm approach for the problem of car selection.}
+	\label{fig:example_ms}
+\end{figure}
+
+\noindent \textbf{4) Tournament method}
+
+In this approach, the expert is required to manually compare the pairs of criteria to establish their importance. Based on that assessment, the $MAC$ matrix is filled. There are three possible comparison scenarios for pair ($C_{i}$, $C_j$). The criterion $C_i$ could be: 1) more important than $C_j$; 2) equally important as $C_j$; 3) less important than $C_j$. The result of the comparison is defined by the significance function of criteria $f(C)$. Using the tournament method can facilitate the process of establishing the relevance of subsequent parameters regarding others as all pairs of criteria combinations are compared. However, it is worth noting that in this case, $MAC$ could be inconsistent as the expert could hesitate with decisions in particular comparisons. To this end, to ensure that the $MAC$ matrix determined by the expert is consistent, the triads consistency coefficient can be used \cite{salabun2021new}.
