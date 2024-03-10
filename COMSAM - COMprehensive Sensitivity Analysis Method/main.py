@@ -50,8 +50,6 @@ def get_interval_prefs(matrix, weights, criteria_types, bounds, step=1):
 
                 # save preferences of alternatives
                 alt_pref.extend([nppref[i], nmpref[i]])
-        if i == 0:
-            print(alt_pref[0], alt_pref[1], alt_pref[2], alt_pref[-3], alt_pref[-2], alt_pref[-1])
                 
         # save minimum and maximum preference scores as interval preference 
         interval_pref.append([np.min(alt_pref), np.max(alt_pref)])
@@ -75,4 +73,5 @@ if __name__ == '__main__':
 
     # interval preferences from COMSAM method
     interval_preferences = get_interval_prefs(matrix, weights, criteria_types, modifications)
-    print(interval_preferences)
+    for idx, interval_pref in enumerate(interval_preferences):
+        print(f'Alternative {idx+1}: Bounds: {np.round(interval_pref, 4)}')
