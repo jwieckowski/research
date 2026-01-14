@@ -1,0 +1,157 @@
+####### PROMPT #########
+
+You are representing a group of experts in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+
+Your group of experts includes 5 people. Each of them must made their own evaluation. For SWOT subfactors the tables should include given SWOT group factors and judgments of all experts. For decision matrices, a separate decision matrix as table for each expert. Provide judgments scores for all experts.
+
+####### RESPONSE #########
+
+### Strengths Subfactors
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|---|----|----|----|----|----|
+| S1 | EH | H | EH | H | EH |
+| S2 | MH | MH | MH | MH | MH |
+| S3 | M | H | H | M | H |
+| S4 | EH | H | VH | EH | EH |
+| S5 | MH | H | M | H | H |
+| S6 | VH | EH | VH | VH | EH |
+
+### Weaknesses Subfactors
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|---|----|----|----|----|----|
+| W1 | MH | M | M | MH | MH |
+| W2 | H | EH | VH | VH | EH |
+| W3 | H | H | MH | VH | MH |
+| W4 | EH | EH | VH | EH | EH |
+| W5 | H | H | H | MH | MH |
+| W6 | H | H | H | EH | EH |
+
+### Opportunities Subfactors
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|---|----|----|----|----|----|
+| O1 | H | VH | MH | VH | VH |
+| O2 | EH | H | H | VH | VH |
+| O3 | EH | VH | VH | VH | EH |
+| O4 | MH | H | MH | MH | H |
+| O5 | EH | H | VH | VH | EH |
+| O6 | VH | EH | EH | VH | VH |
+
+### Threats Subfactors
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|---|----|----|----|----|----|
+| T1 | VH | MH | VH | MH | VH |
+| T2 | EH | VH | H | VH | EH |
+| T3 | MH | H | VH | H | H |
+| T4 | EH | EH | EH | EH | VH |
+| T5 | EH | EH | H | H | EH |
+| T6 | H | EH | H | H | VH |
+
+### Decision Matrix for Expert 1
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A1 | L | EH | ML | H | M | MH | ML | EH | M | ML | ML | MH | VH | MH | MH | H | ML | VL | M | MH | L | VH | L | ML |
+| A2 | MH | H | ML | MH | MH | EH | M | M | MH | EH | M | H | EH | VH | VH | MH | H | H | VH | M | M | M | MH | MH |
+| A3 | MH | ML | ML | ML | VH | MH | VH | L | EH | M | MH | M | MH | MH | MH | M | MH | MH | L | ML | H | M | EH | VH |
+| A4 | M | ML | ML | M | ML | VH | H | L | ML | VH | M | MH | ML | M | EH | H | H | ML | M | M | L | M | L | M |
+| A5 | MH | M | ML | ML | VH | MH | H | L | H | ML | EH | M | MH | VH | ML | M | M | L | L | L | M | M | ML | VH |
+| A6 | VH | VL | H | VL | M | L | MH | ML | L | VL | L | L | ML | L | M | VL | MH | M | L | L | EH | VL | EH | H |
+| A7 | MH | M | VH | M | L | M | ML | M | ML | ML | L | ML | M | L | M | ML | M | ML | H | VH | L | M | M | L |
+| A8 | L | MH | ML | H | H | H | H | VH | MH | MH | H | MH | MH | H | H | MH | MH | H | EH | M | ML | VH | MH | H |
+
+### Decision Matrix for Expert 2
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A1 | L | EH | L | VH | ML | MH | M | H | ML | L | ML | M | H | H | MH | VH | M | ML | MH | ML | VL | EH | L | ML |
+| A2 | VH | H | MH | ML | H | EH | M | ML | H | VH | MH | H | VH | MH | EH | ML | M | H | VH | L | MH | L | MH | MH |
+| A3 | H | L | MH | M | VH | MH | MH | L | EH | H | MH | H | M | MH | ML | M | MH | H | L | ML | VH | L | EH | EH |
+| A4 | ML | ML | ML | M | ML | VH | VH | M | ML | VH | M | MH | MH | ML | VH | VH | M | ML | MH | ML | VL | ML | M | MH |
+| A5 | M | M | M | MH | MH | MH | H | ML | H | L | VH | ML | ML | H | M | M | ML | ML | ML | M | M | MH | M | MH |
+| A6 | VH | ML | MH | ML | MH | ML | ML | VL | M | L | ML | L | L | ML | L | ML | MH | L | ML | ML | EH | ML | EH | H |
+| A7 | ML | ML | VH | MH | VL | H | ML | MH | ML | M | VL | ML | ML | VL | ML | M | L | L | M | EH | L | MH | L | L |
+| A8 | M | H | MH | EH | M | MH | H | H | H | M | MH | VH | H | H | H | VH | MH | MH | H | H | ML | EH | MH | H |
+
+### Decision Matrix for Expert 3
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A1 | VL | VH | ML | VH | M | MH | ML | H | M | VL | ML | M | H | M | M | H | M | ML | MH | MH | ML | EH | L | ML |
+| A2 | H | M | MH | M | M | VH | H | M | MH | EH | M | MH | EH | VH | VH | M | H | H | H | L | MH | ML | M | VH |
+| A3 | H | M | MH | M | EH | MH | MH | L | EH | M | MH | MH | MH | MH | MH | L | MH | H | M | ML | EH | ML | VH | EH |
+| A4 | M | ML | M | M | ML | VH | VH | ML | MH | EH | L | VH | MH | ML | EH | EH | M | M | MH | L | L | M | M | MH |
+| A5 | M | ML | ML | M | VH | ML | H | ML | H | L | EH | L | M | EH | M | M | MH | ML | L | L | H | M | ML | MH |
+| A6 | MH | VL | M | VL | MH | M | ML | L | ML | ML | M | L | M | M | ML | L | MH | L | VL | M | EH | VL | VH | MH |
+| A7 | ML | ML | EH | MH | L | M | MH | M | VL | ML | VL | ML | MH | ML | M | MH | ML | L | H | EH | M | M | M | L |
+| A8 | L | VH | M | VH | MH | MH | EH | VH | VH | MH | VH | MH | H | H | M | VH | H | M | VH | MH | M | EH | MH | MH |
+
+### Decision Matrix for Expert 4
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A1 | VL | VH | ML | EH | ML | VH | ML | H | ML | L | ML | MH | H | MH | ML | MH | ML | L | H | MH | VL | EH | ML | M |
+| A2 | MH | MH | M | M | MH | EH | H | MH | H | EH | ML | MH | VH | H | EH | M | M | VH | H | M | MH | ML | H | MH |
+| A3 | MH | L | MH | M | VH | M | VH | ML | EH | M | ML | H | M | M | M | L | ML | H | ML | ML | H | ML | VH | EH |
+| A4 | ML | ML | ML | MH | ML | VH | MH | M | MH | VH | ML | MH | MH | L | EH | H | M | ML | M | L | ML | L | L | ML |
+| A5 | M | M | L | MH | MH | M | H | ML | MH | L | EH | M | MH | EH | L | L | M | L | M | L | MH | MH | MH | H |
+| A6 | H | ML | M | VL | H | M | MH | VL | L | ML | ML | M | M | L | M | VL | MH | M | L | M | VH | VL | EH | H |
+| A7 | M | ML | EH | M | VL | MH | M | H | L | M | VL | ML | ML | ML | M | MH | ML | ML | H | EH | ML | M | M | ML |
+| A8 | ML | H | ML | H | MH | H | H | VH | VH | H | VH | H | H | MH | MH | H | MH | MH | H | MH | M | EH | H | VH |
+
+### Decision Matrix for Expert 5
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A1 | ML | EH | M | H | MH | MH | ML | H | M | L | ML | MH | MH | H | M | VH | M | L | MH | ML | VL | EH | L | M |
+| A2 | VH | M | M | MH | H | EH | MH | MH | H | VH | M | H | EH | H | EH | MH | MH | VH | H | ML | ML | L | H | MH |
+| A3 | MH | L | MH | M | EH | ML | MH | VL | EH | MH | M | H | MH | H | MH | ML | ML | MH | ML | L | VH | L | VH | VH |
+| A4 | M | M | L | MH | ML | H | VH | ML | MH | VH | M | H | ML | L | EH | VH | MH | M | MH | ML | VL | L | ML | M |
+| A5 | ML | L | ML | M | MH | MH | H | M | M | L | VH | M | M | H | L | L | MH | ML | M | M | H | ML | MH | H |
+| A6 | H | L | MH | ML | MH | ML | MH | ML | L | ML | M | L | L | M | L | L | H | L | VL | L | H | ML | VH | M |
+| A7 | ML | M | EH | MH | ML | MH | M | M | VL | ML | ML | ML | MH | L | L | MH | L | L | H | EH | M | ML | ML | VL |
+| A8 | M | MH | MH | H | MH | MH | H | H | MH | MH | VH | VH | VH | H | MH | MH | H | H | VH | H | M | EH | VH | VH |

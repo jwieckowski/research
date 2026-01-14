@@ -1,0 +1,247 @@
+####### PROMPT #########
+
+You are representing a group of experts in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+
+Your group of experts includes 5 people. Each of them must made their own evaluation. For SWOT subfactors the tables should include given SWOT group factors and judgments of all experts. For decision matrices, a separate decision matrix as table for each expert. Provide judgments scores for all experts.
+
+####### RESPONSE #########
+
+Below are the evaluations from five experts using a 9-point linguistic scale for both the SWOT subfactors and the policy alternatives. The scale ranges from Extremely Low (EL) to Extremely High (EH), with each expert providing judgments for subfactors within the four SWOT categories and for each alternative regarding all 24 subfactors. The tables are organized as requested for clarity.
+
+### Strengths Subfactor Evaluations
+
+| Subfactor | Expert_1 | Expert_2 | Expert_3 | Expert_4 | Expert_5 |
+|:----------|:---------|:---------|:---------|:---------|:---------|
+| S1        | L        | EH       | M        | L        | ML       |
+| S2        | L        | EL       | VH       | ML       | VL       |
+| S3        | H        | VH       | H        | ML       | ML       |
+| S4        | VL       | ML       | VH       | ML       | M        |
+| S5        | ML       | M        | VL       | EH       | VH       |
+| S6        | H        | H        | MH       | H        | H        |
+
+### Weaknesses Subfactor Evaluations
+
+| Subfactor | Expert_1 | Expert_2 | Expert_3 | Expert_4 | Expert_5 |
+|:----------|:---------|:---------|:---------|:---------|:---------|
+| W1        | VL       | VL       | VH       | EH       | VL       |
+| W2        | EL       | MH       | L        | MH       | M        |
+| W3        | VL       | H        | M        | H        | ML       |
+| W4        | EL       | L        | EH       | EL       | ML       |
+| W5        | EL       | VL       | VL       | EH       | VH       |
+| W6        | ML       | EH       | L        | M        | H        |
+
+### Opportunities Subfactor Evaluations
+
+| Subfactor | Expert_1 | Expert_2 | Expert_3 | Expert_4 | Expert_5 |
+|:----------|:---------|:---------|:---------|:---------|:---------|
+| O1        | M        | ML       | VL       | VL       | EH       |
+| O2        | EL       | MH       | VL       | VL       | H        |
+| O3        | EL       | EL       | ML       | ML       | M        |
+| O4        | M        | L        | MH       | ML       | M        |
+| O5        | VL       | H        | EL       | VH       | VH       |
+| O6        | VH       | L        | EH       | L        | EL       |
+
+### Threats Subfactor Evaluations
+
+| Subfactor | Expert_1 | Expert_2 | Expert_3 | Expert_4 | Expert_5 |
+|:----------|:---------|:---------|:---------|:---------|:---------|
+| T1        | ML       | M        | VL       | MH       | EL       |
+| T2        | L        | M        | H        | EH       | EH       |
+| T3        | M        | H        | ML       | L        | EH       |
+| T4        | VH       | ML       | ML       | H        | M        |
+| T5        | L        | EL       | MH       | L        | EH       |
+| T6        | M        | H        | VH       | EL       | H        |
+
+### Decision Matrices
+
+#### Expert 1
+|    | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  |
+|:---|:----|:----|:----|:----|:----|:----|:----|:----|
+| S1 | VL  | H   | EH  | VH  | VL  | VH  | VL  | VH  |
+| S2 | EH  | VH  | VL  | ML  | VL  | EH  | VH  | MH  |
+| S3 | VL  | L   | MH  | L   | L   | ML  | L   | H   |
+| S4 | VH  | VL  | ML  | EH  | ML  | VH  | ML  | ML  |
+| S5 | MH  | H   | EL  | EH  | VH  | VH  | M   | M   |
+| S6 | MH  | EL  | EH  | L   | MH  | VL  | MH  | L   |
+| W1 | M   | ML  | EL  | ML  | VH  | VH  | L   | MH  |
+| W2 | VL  | VH  | MH  | VL  | L   | EH  | MH  | EL  |
+| W3 | ML  | ML  | ML  | VL  | VH  | H   | ML  | VL  |
+| W4 | VH  | L   | H   | MH  | EH  | M   | VH  | EH  |
+| W5 | MH  | L   | M   | ML  | ML  | VL  | VH  | EH  |
+| W6 | MH  | VH  | VH  | VH  | MH  | EL  | EL  | EH  |
+| O1 | VL  | EL  | M   | MH  | M   | MH  | EL  | VH  |
+| O2 | VL  | L   | L   | VH  | VH  | ML  | H   | VL  |
+| O3 | EH  | M   | VL  | H   | MH  | EL  | ML  | VL  |
+| O4 | ML  | VH  | VH  | VH  | MH  | ML  | H   | ML  |
+| O5 | MH  | VL  | MH  | VL  | ML  | VL  | MH  | H   |
+| O6 | VL  | MH  | EL  | VH  | EL  | ML  | EL  | H   |
+| T1 | L   | VH  | MH  | VL  | EL  | EL  | L   | H   |
+| T2 | MH  | VL  | MH  | ML  | H   | M   | VH  | VL  |
+| T3 | H   | EL  | ML  | VL  | ML  | EL  | EH  | MH  |
+| T4 | VL  | M   | ML  | L   | L   | EL  | L   | EL  |
+| T5 | L   | VH  | EL  | ML  | VH  | EL  | MH  | M   |
+| T6 | H   | EL  | VH  | EH  | EH  | VL  | EL  | VL  |
+
+#### Expert 2
+|    | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  |
+|:---|:----|:----|:----|:----|:----|:----|:----|:----|
+| S1 | VH  | MH  | ML  | EL  | M   | EH  | M   | ML  |
+| S2 | MH  | VL  | EH  | EL  | VL  | MH  | EH  | EH  |
+| S3 | M   | H   | EH  | VH  | L   | EL  | EL  | MH  |
+| S4 | ML  | MH  | MH  | L   | L   | VH  | ML  | VL  |
+| S5 | ML  | ML  | H   | L   | ML  | VL  | EH  | EL  |
+| S6 | L   | ML  | VH  | L   | VH  | VH  | VL  | M   |
+| W1 | VH  | M   | VH  | EH  | EL  | L   | VH  | M   |
+| W2 | ML  | VH  | ML  | VH  | EL  | VH  | H   | EH  |
+| W3 | H   | EH  | EL  | MH  | ML  | L   | M   | ML  |
+| W4 | ML  | VH  | VL  | EH  | EL  | VL  | M   | VH  |
+| W5 | L   | M   | EH  | ML  | M   | H   | L   | VH  |
+| W6 | VH  | VH  | M   | VH  | EH  | M   | EL  | VH  |
+| O1 | H   | ML  | M   | VL  | VL  | VH  | L   | VH  |
+| O2 | EH  | M   | M   | M   | VH  | VH  | M   | VL  |
+| O3 | MH  | MH  | EH  | MH  | VL  | EL  | H   | EL  |
+| O4 | M   | H   | M   | MH  | ML  | M   | H   | L   |
+| O5 | MH  | L   | M   | ML  | L   | M   | EH  | EL  |
+| O6 | H   | EH  | EH  | MH  | H   | MH  | H   | EL  |
+| T1 | M   | EL  | EH  | EL  | MH  | H   | H   | EH  |
+| T2 | EH  | M   | M   | EL  | VL  | EL  | VH  | MH  |
+| T3 | M   | VH  | L   | ML  | MH  | MH  | M   | L   |
+| T4 | H   | VH  | M   | H   | MH  | VH  | ML  | VL  |
+| T5 | ML  | ML  | EH  | ML  | MH  | H   | VH  | H   |
+| T6 | MH  | VH  | VL  | VL  | H   | H   | M   | EL  |
+
+#### Expert 3
+|    | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  |
+|:---|:----|:----|:----|:----|:----|:----|:----|:----|
+| S1 | ML  | EH  | MH  | ML  | ML  | EH  | VH  | EL  |
+| S2 | VL  | VH  | L   | ML  | MH  | MH  | EL  | L   |
+| S3 | MH  | EH  | VH  | VH  | M   | MH  | VL  | EH  |
+| S4 | H   | EH  | M   | L   | VH  | VL  | H   | L   |
+| S5 | H   | MH  | H   | EL  | ML  | L   | L   | VH  |
+| S6 | MH  | MH  | EL  | EL  | ML  | VH  | VL  | EH  |
+| W1 | L   | MH  | EL  | VL  | EL  | VH  | VH  | MH  |
+| W2 | EH  | VL  | MH  | H   | VH  | EL  | H   | M   |
+| W3 | VL  | M   | L   | L   | VL  | EL  | VL  | VL  |
+| W4 | H   | H   | ML  | H   | VH  | VH  | H   | VL  |
+| W5 | ML  | VH  | L   | ML  | EH  | EL  | ML  | ML  |
+| W6 | EH  | H   | ML  | VH  | MH  | EH  | M   | EH  |
+| O1 | MH  | VL  | VH  | L   | VH  | EH  | VL  | VH  |
+| O2 | VL  | EH  | VL  | L   | ML  | M   | L   | EL  |
+| O3 | VH  | MH  | EH  | MH  | EL  | MH  | MH  | VL  |
+| O4 | ML  | EH  | EL  | EH  | EL  | EL  | L   | MH  |
+| O5 | VL  | L   | ML  | EL  | H   | VH  | ML  | VH  |
+| O6 | M   | EH  | EL  | VH  | EL  | EL  | L   | M   |
+| T1 | VL  | MH  | EH  | MH  | H   | EH  | M   | EH  |
+| T2 | M   | VL  | ML  | L   | VH  | EL  | H   | L   |
+| T3 | VH  | ML  | H   | M   | L   | H   | M   | VH  |
+| T4 | EL  | ML  | ML  | VL  | L   | VL  | ML  | EL  |
+| T5 | M   | VH  | M   | M   | VH  | H   | ML  | ML  |
+| T6 | H   | VH  | M   | VL  | VH  | M   | EL  | VL  |
+
+#### Expert 4
+|    | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  |
+|:---|:----|:----|:----|:----|:----|:----|:----|:----|
+| S1 | L   | ML  | EL  | H   | EH  | L   | M   | VL  |
+| S2 | H   | EL  | ML  | MH  | L   | H   | VH  | MH  |
+| S3 | VH  | MH  | M   | M   | VH  | EH  | EL  | L   |
+| S4 | L   | EL  | VH  | VL  | VL  | EL  | L   | VH  |
+| S5 | MH  | ML  | ML  | H   | MH  | M   | EH  | H   |
+| S6 | M   | EH  | EL  | H   | M   | EL  | EL  | MH  |
+| W1 | EH  | EL  | EH  | VL  | H   | M   | VH  | L   |
+| W2 | MH  | M   | H   | ML  | EL  | M   | EL  | L   |
+| W3 | VH  | H   | EL  | ML  | H   | M   | VL  | MH  |
+| W4 | ML  | EH  | EL  | EH  | VH  | L   | M   | EL  |
+| W5 | EH  | ML  | L   | ML  | H   | L   | EH  | MH  |
+| W6 | M   | M   | EL  | EL  | ML  | EH  | MH  | M   |
+| O1 | VL  | M   | L   | VL  | M   | VL  | EH  | VL  |
+| O2 | VL  | VH  | L   | EH  | EH  | ML  | ML  | M   |
+| O3 | ML  | ML  | H   | VL  | H   | L   | VH  | VH  |
+| O4 | EL  | MH  | M   | H   | VL  | VL  | M   | EL  |
+| O5 | VH  | H   | EH  | VH  | H   | EH  | L   | H   |
+| O6 | M   | EL  | MH  | EH  | H   | M   | L   | M   |
+| T1 | EL  | EL  | MH  | EL  | EH  | H   | MH  | MH  |
+| T2 | ML  | EH  | VL  | EH  | ML  | VH  | EH  | MH  |
+| T3 | VL  | M   | ML  | M   | M   | M   | EL  | EL  |
+| T4 | H   | EH  | M   | EH  | EL  | VL  | VH  | H   |
+| T5 | L   | H   | M   | L   | M   | VH  | MH  | EH  |
+| T6 | VL  | ML  | ML  | VL  | MH  | MH  | L   | M   |
+
+#### Expert 5
+|    | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  |
+|:---|:----|:----|:----|:----|:----|:----|:----|:----|
+| S1 | H   | EL  | MH  | ML  | VL  | VH  | H   | MH  |
+| S2 | H   | L   | EH  | VL  | L   | M   | VH  | MH  |
+| S3 | L   | VL  | H   | MH  | ML  | VL  | MH  | EH  |
+| S4 | EH  | MH  | MH  | M   | ML  | ML  | M   | VL  |
+| S5 | MH  | VH  | EH  | L   | EH  | VL  | H   | EL  |
+| S6 | L   | M   | MH  | EH  | M   | MH  | EL  | ML  |
+| W1 | VH  | L   | MH  | EL  | EL  | L   | L   | L   |
+| W2 | VH  | EH  | VL  | EL  | VH  | MH  | EH  | EL  |
+| W3 | L   | MH  | M   | M   | VL  | ML  | MH  | EH  |
+| W4 | M   | L   | EH  | ML  | H   | L   | EH  | EL  |
+| W5 | MH  | EL  | VH  | VL  | H   | VL  | H   | EH  |
+| W6 | EL  | EH  | VH  | EL  | EL  | EH  | L   | MH  |
+| O1 | EH  | EH  | M   | ML  | H   | VL  | MH  | EL  |
+| O2 | EH  | M   | L   | L   | L   | VH  | MH  | M   |
+| O3 | M   | EL  | H   | M   | VH  | EH  | M   | VH  |
+| O4 | VL  | L   | ML  | VL  | L   | H   | M   | L   |
+| O5 | EH  | EH  | ML  | ML  | VH  | ML  | EL  | EH  |
+| O6 | VH  | EH  | H   | VH  | L   | MH  | M   | L   |
+| T1 | VH  | MH  | ML  | VL  | MH  | VL  | M   | H   |
+| T2 | L   | L   | M   | M   | M   | H   | MH  | H   |
+| T3 | H   | MH  | L   | M   | MH  | ML  | M   | VH  |
+| T4 | VL  | VL  | VH  | EH  | EH  | EL  | L   | MH  |
+| T5 | EH  | VH  | VH  | VL  | H   | MH  | EH  | EH  |
+| T6 | M   | EL  | VL  | M   | VL  | ML  | VH  | ML  |
+
+These evaluations are based on the expert group’s collective judgments using the 9-point linguistic scale, as required for the Multi-Criteria Decision Analysis approach to policy prioritization in Ghana's renewable energy sector.

@@ -1,0 +1,167 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Below are **expert-based MCDA linguistic judgments** (using the **9-point scale: EL, VL, L, ML, M, MH, H, VH, EH**) for:
+
+1. **Subfactor weights within each SWOT factor**
+2. **Alternative ratings with respect to all 24 subfactors (A1–A8 × S1–T6)**
+
+These are **expert-style hypothetical evaluations**, consistent with Ghana’s renewable energy sector realities.
+
+---
+
+# **1. Subfactor Evaluation Within Each SWOT Factor**
+
+## **Strengths – Relative Importance of Subfactors**
+
+| Subfactor | Description                        | Linguistic Weight |
+| --------- | ---------------------------------- | ----------------- |
+| **S1**    | Geographical location              | H                 |
+| **S2**    | Political stability                | VH                |
+| **S3**    | Rich land resource                 | MH                |
+| **S4**    | Renewable energy act & incentives  | EH                |
+| **S5**    | Existence of research institutions | M                 |
+| **S6**    | Open market to private investment  | MH                |
+
+---
+
+## **Weaknesses – Relative Importance of Subfactors**
+
+| Subfactor | Description                           | Linguistic Weight |
+| --------- | ------------------------------------- | ----------------- |
+| **W1**    | Less attention on off-grid systems    | MH                |
+| **W2**    | Bureaucratic licensing processes      | VH                |
+| **W3**    | Lack of commercialization of research | H                 |
+| **W4**    | High initial cost of RE projects      | EH                |
+| **W5**    | Lack of public awareness              | H                 |
+| **W6**    | Poor grid system                      | VH                |
+
+---
+
+## **Opportunities – Relative Importance of Subfactors**
+
+| Subfactor | Description                         | Linguistic Weight |
+| --------- | ----------------------------------- | ----------------- |
+| **O1**    | Regional integration                | MH                |
+| **O2**    | Global awareness of climate change  | EH                |
+| **O3**    | Availability of funding sources     | VH                |
+| **O4**    | Reduced pressure on national budget | M                 |
+| **O5**    | Increasing electricity demand       | H                 |
+| **O6**    | Declining prices of RE technologies | VH                |
+
+---
+
+## **Threats – Relative Importance of Subfactors**
+
+| Subfactor | Description                      | Linguistic Weight |
+| --------- | -------------------------------- | ----------------- |
+| **T1**    | Unequal playing field            | H                 |
+| **T2**    | Land tenure system issues        | VH                |
+| **T3**    | Changing climate conditions      | H                 |
+| **T4**    | Discontinuity in energy policies | EH                |
+| **T5**    | Unreliable RE resource data      | VH                |
+| **T6**    | Insufficient R&D                 | H                 |
+
+---
+
+# **2. Evaluation of Alternatives Against All 24 Subfactors**
+
+Below is the **full MCDA decision matrix** where each alternative (A1–A8) is rated against all 24 subfactors using the 9-point linguistic scale.
+
+---
+
+## **Alternatives × Subfactors Judgment Matrix**
+
+| Subfactor | A1 Strengthen political regime | A2 Foreign cooperation | A3 Increase R&D | A4 Financing support | A5 Increase education | A6 Data collection | A7 Gov. intervention on lands | A8 National consensus |
+| --------- | ------------------------------ | ---------------------- | --------------- | -------------------- | --------------------- | ------------------ | ----------------------------- | --------------------- |
+| **S1**    | M                              | MH                     | MH              | M                    | ML                    | M                  | H                             | M                     |
+| **S2**    | EH                             | H                      | M               | ML                   | M                     | L                  | ML                            | VH                    |
+| **S3**    | ML                             | M                      | MH              | M                    | L                     | L                  | EH                            | M                     |
+| **S4**    | H                              | MH                     | M               | MH                   | ML                    | M                  | M                             | EH                    |
+| **S5**    | M                              | H                      | EH              | MH                   | MH                    | MH                 | ML                            | H                     |
+| **S6**    | MH                             | EH                     | M               | VH                   | ML                    | ML                 | L                             | H                     |
+| **W1**    | ML                             | M                      | MH              | M                    | H                     | ML                 | L                             | MH                    |
+| **W2**    | EH                             | MH                     | ML              | M                    | L                     | L                  | ML                            | H                     |
+| **W3**    | L                              | M                      | EH              | MH                   | M                     | ML                 | L                             | MH                    |
+| **W4**    | ML                             | MH                     | M               | EH                   | L                     | L                  | L                             | MH                    |
+| **W5**    | M                              | ML                     | M               | ML                   | EH                    | ML                 | L                             | H                     |
+| **W6**    | ML                             | M                      | ML              | MH                   | L                     | MH                 | L                             | M                     |
+| **O1**    | MH                             | VH                     | M               | ML                   | M                     | ML                 | ML                            | H                     |
+| **O2**    | M                              | H                      | MH              | MH                   | H                     | ML                 | L                             | EH                    |
+| **O3**    | ML                             | EH                     | MH              | VH                   | M                     | ML                 | L                             | H                     |
+| **O4**    | ML                             | MH                     | M               | EH                   | ML                    | ML                 | ML                            | H                     |
+| **O5**    | M                              | MH                     | MH              | H                    | M                     | MH                 | ML                            | VH                    |
+| **O6**    | ML                             | MH                     | MH              | VH                   | ML                    | ML                 | L                             | H                     |
+| **T1**    | EH                             | MH                     | ML              | M                    | ML                    | L                  | MH                            | H                     |
+| **T2**    | ML                             | M                      | L               | ML                   | L                     | L                  | EH                            | MH                    |
+| **T3**    | M                              | MH                     | ML              | M                    | ML                    | ML                 | ML                            | H                     |
+| **T4**    | EH                             | MH                     | M               | ML                   | M                     | ML                 | ML                            | EH                    |
+| **T5**    | ML                             | ML                     | M               | ML                   | ML                    | EH                 | L                             | H                     |
+| **T6**    | L                              | M                      | EH              | ML                   | MH                    | M                  | L                             | MH                    |
+
+---
+
+# **If you want the next steps:**
+
+I can also provide:
+
+✔ Conversion of linguistic judgments to numerical 1–9 scale
+✔ Computation of weights using AHP / fuzzy AHP
+✔ Aggregation of alternative scores under MCDA (TOPSIS, VIKOR, WASPAS, etc.)
+✔ Final ranking of policy responses
+
+Would you like me to **continue to weighting and ranking**?

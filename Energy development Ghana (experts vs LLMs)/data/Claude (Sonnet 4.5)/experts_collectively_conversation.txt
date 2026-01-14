@@ -1,0 +1,429 @@
+####### PROMPT #########
+
+You are representing a group of experts in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+
+Your group of experts includes 5 people. Each of them must made their own evaluation. For SWOT subfactors the tables should include given SWOT group factors and judgments of all experts. For decision matrices, a separate decision matrix as table for each expert. Provide judgments scores for all experts.
+
+####### RESPONSE #########
+
+# SWOT-Based Multi-Criteria Decision Analysis for Ghanaian Renewable Energy Policy Prioritization
+
+## Linguistic Scale Definition
+
+| Linguistic Term | Abbreviation | Numerical Score |
+|----------------|--------------|-----------------|
+| Extremely Low | EL | 1 |
+| Very Low | VL | 2 |
+| Low | L | 3 |
+| Medium Low | ML | 4 |
+| Medium | M | 5 |
+| Medium High | MH | 6 |
+| High | H | 7 |
+| Very High | VH | 8 |
+| Extremely High | EH | 9 |
+
+---
+
+## PART 1: EVALUATION OF SUBFACTORS WITHIN EACH SWOT FACTOR
+
+### Table 1: Importance of Strength Subfactors
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|-----------|----------|----------|----------|----------|----------|
+| S1: Geographical location | VH (8) | EH (9) | H (7) | VH (8) | EH (9) |
+| S2: Political stability | H (7) | H (7) | VH (8) | H (7) | MH (6) |
+| S3: Rich land resource | VH (8) | H (7) | VH (8) | H (7) | VH (8) |
+| S4: Availability of RE act and incentives | EH (9) | VH (8) | EH (9) | VH (8) | EH (9) |
+| S5: Existence of research institutions | MH (6) | H (7) | H (7) | MH (6) | H (7) |
+| S6: Market open to private investment | VH (8) | VH (8) | H (7) | VH (8) | H (7) |
+
+### Table 2: Importance of Weakness Subfactors
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|-----------|----------|----------|----------|----------|----------|
+| W1: Less attention on off-grid RE systems | H (7) | VH (8) | H (7) | H (7) | VH (8) |
+| W2: Bureaucratic licensing processes | VH (8) | EH (9) | VH (8) | EH (9) | VH (8) |
+| W3: Lack of commercialization of research | VH (8) | H (7) | VH (8) | H (7) | H (7) |
+| W4: High initial cost of RE projects | EH (9) | EH (9) | VH (8) | EH (9) | EH (9) |
+| W5: Lack of public awareness | H (7) | H (7) | VH (8) | H (7) | H (7) |
+| W6: Poor grid system | EH (9) | VH (8) | EH (9) | VH (8) | EH (9) |
+
+### Table 3: Importance of Opportunity Subfactors
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|-----------|----------|----------|----------|----------|----------|
+| O1: Regional integration | H (7) | H (7) | VH (8) | H (7) | H (7) |
+| O2: Increasing global awareness of climate change | VH (8) | EH (9) | VH (8) | VH (8) | EH (9) |
+| O3: Availability of funding sources | EH (9) | VH (8) | EH (9) | EH (9) | VH (8) |
+| O4: Reduction of pressure on national budget | VH (8) | H (7) | H (7) | VH (8) | H (7) |
+| O5: Increasing electricity demand | EH (9) | EH (9) | VH (8) | EH (9) | EH (9) |
+| O6: Decreasing prices of RE and equipment | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) |
+
+### Table 4: Importance of Threat Subfactors
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+|-----------|----------|----------|----------|----------|----------|
+| T1: Unequal playing field | H (7) | VH (8) | H (7) | H (7) | VH (8) |
+| T2: Land tenure system | VH (8) | VH (8) | EH (9) | VH (8) | H (7) |
+| T3: Changing climate conditions | VH (8) | H (7) | VH (8) | H (7) | VH (8) |
+| T4: Discontinuity in energy policies | EH (9) | EH (9) | VH (8) | EH (9) | EH (9) |
+| T5: Insufficient RE resource data | VH (8) | VH (8) | VH (8) | EH (9) | VH (8) |
+| T6: Insufficient R&D | EH (9) | VH (8) | EH (9) | VH (8) | EH (9) |
+
+---
+
+## PART 2: EVALUATION OF ALTERNATIVES REGARDING SUBFACTORS
+
+### EXPERT 1 - Decision Matrix
+
+#### Strength Subfactors
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | M (5) | EH (9) | M (5) | H (7) | M (5) | H (7) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | MH (6) | VH (8) | H (7) | EH (9) |
+| A3: Increase R&D | M (5) | M (5) | MH (6) | H (7) | EH (9) | MH (6) |
+| A4: Financing support | MH (6) | MH (6) | H (7) | VH (8) | H (7) | VH (8) |
+| A5: Increase education | ML (4) | MH (6) | ML (4) | MH (6) | VH (8) | MH (6) |
+| A6: Data collection | H (7) | M (5) | VH (8) | MH (6) | VH (8) | M (5) |
+| A7: Government intervention on lands | ML (4) | H (7) | EH (9) | MH (6) | L (3) | MH (6) |
+| A8: National consensus | MH (6) | VH (8) | MH (6) | EH (9) | MH (6) | H (7) |
+
+#### Weakness Subfactors
+
+| Alternative | W1 | W2 | W3 | W4 | W5 | W6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | MH (6) | VH (8) | M (5) | MH (6) | MH (6) | H (7) |
+| A2: Foster foreign cooperation | H (7) | H (7) | VH (8) | EH (9) | H (7) | VH (8) |
+| A3: Increase R&D | MH (6) | M (5) | EH (9) | H (7) | H (7) | MH (6) |
+| A4: Financing support | VH (8) | MH (6) | H (7) | EH (9) | H (7) | VH (8) |
+| A5: Increase education | H (7) | ML (4) | H (7) | M (5) | EH (9) | M (5) |
+| A6: Data collection | VH (8) | M (5) | MH (6) | ML (4) | VH (8) | MH (6) |
+| A7: Government intervention on lands | H (7) | VH (8) | ML (4) | MH (6) | M (5) | VH (8) |
+| A8: National consensus | VH (8) | EH (9) | MH (6) | H (7) | VH (8) | EH (9) |
+
+#### Opportunity Subfactors
+
+| Alternative | O1 | O2 | O3 | O4 | O5 | O6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | MH (6) | M (5) | MH (6) | H (7) | H (7) | M (5) |
+| A2: Foster foreign cooperation | EH (9) | VH (8) | EH (9) | VH (8) | VH (8) | VH (8) |
+| A3: Increase R&D | MH (6) | H (7) | H (7) | MH (6) | H (7) | VH (8) |
+| A4: Financing support | H (7) | H (7) | EH (9) | EH (9) | VH (8) | H (7) |
+| A5: Increase education | M (5) | VH (8) | MH (6) | MH (6) | VH (8) | M (5) |
+| A6: Data collection | M (5) | H (7) | H (7) | M (5) | VH (8) | H (7) |
+| A7: Government intervention on lands | MH (6) | M (5) | MH (6) | H (7) | H (7) | ML (4) |
+| A8: National consensus | VH (8) | VH (8) | VH (8) | VH (8) | EH (9) | MH (6) |
+
+#### Threat Subfactors
+
+| Alternative | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | MH (6) | M (5) | EH (9) | M (5) | MH (6) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | VH (8) | H (7) | VH (8) | VH (8) |
+| A3: Increase R&D | MH (6) | M (5) | VH (8) | MH (6) | EH (9) | EH (9) |
+| A4: Financing support | VH (8) | MH (6) | H (7) | H (7) | H (7) | VH (8) |
+| A5: Increase education | M (5) | ML (4) | H (7) | MH (6) | H (7) | H (7) |
+| A6: Data collection | MH (6) | M (5) | VH (8) | M (5) | EH (9) | H (7) |
+| A7: Government intervention on lands | VH (8) | EH (9) | MH (6) | H (7) | MH (6) | M (5) |
+| A8: National consensus | EH (9) | H (7) | H (7) | EH (9) | H (7) | H (7) |
+
+---
+
+### EXPERT 2 - Decision Matrix
+
+#### Strength Subfactors
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | M (5) | VH (8) | MH (6) | H (7) | MH (6) | H (7) |
+| A2: Foster foreign cooperation | EH (9) | H (7) | H (7) | VH (8) | VH (8) | EH (9) |
+| A3: Increase R&D | MH (6) | M (5) | M (5) | H (7) | EH (9) | H (7) |
+| A4: Financing support | H (7) | MH (6) | VH (8) | VH (8) | H (7) | VH (8) |
+| A5: Increase education | M (5) | M (5) | ML (4) | MH (6) | VH (8) | M (5) |
+| A6: Data collection | VH (8) | ML (4) | VH (8) | M (5) | VH (8) | MH (6) |
+| A7: Government intervention on lands | M (5) | H (7) | EH (9) | MH (6) | ML (4) | MH (6) |
+| A8: National consensus | H (7) | EH (9) | H (7) | EH (9) | H (7) | VH (8) |
+
+#### Weakness Subfactors
+
+| Alternative | W1 | W2 | W3 | W4 | W5 | W6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | EH (9) | MH (6) | H (7) | H (7) | VH (8) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | VH (8) | EH (9) | VH (8) | VH (8) |
+| A3: Increase R&D | H (7) | M (5) | EH (9) | H (7) | VH (8) | H (7) |
+| A4: Financing support | EH (9) | MH (6) | VH (8) | EH (9) | VH (8) | VH (8) |
+| A5: Increase education | VH (8) | ML (4) | H (7) | MH (6) | EH (9) | MH (6) |
+| A6: Data collection | VH (8) | MH (6) | H (7) | M (5) | VH (8) | H (7) |
+| A7: Government intervention on lands | H (7) | VH (8) | M (5) | H (7) | MH (6) | EH (9) |
+| A8: National consensus | EH (9) | EH (9) | H (7) | VH (8) | EH (9) | EH (9) |
+
+#### Opportunity Subfactors
+
+| Alternative | O1 | O2 | O3 | O4 | O5 | O6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | MH (6) | H (7) | VH (8) | VH (8) | MH (6) |
+| A2: Foster foreign cooperation | EH (9) | EH (9) | EH (9) | VH (8) | EH (9) | VH (8) |
+| A3: Increase R&D | H (7) | VH (8) | VH (8) | H (7) | VH (8) | EH (9) |
+| A4: Financing support | VH (8) | H (7) | EH (9) | EH (9) | VH (8) | VH (8) |
+| A5: Increase education | MH (6) | EH (9) | H (7) | H (7) | VH (8) | MH (6) |
+| A6: Data collection | MH (6) | VH (8) | VH (8) | MH (6) | EH (9) | VH (8) |
+| A7: Government intervention on lands | H (7) | MH (6) | H (7) | VH (8) | H (7) | M (5) |
+| A8: National consensus | VH (8) | VH (8) | VH (8) | EH (9) | EH (9) | H (7) |
+
+#### Threat Subfactors
+
+| Alternative | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | VH (8) | H (7) | MH (6) | EH (9) | MH (6) | H (7) |
+| A2: Foster foreign cooperation | VH (8) | VH (8) | VH (8) | VH (8) | VH (8) | EH (9) |
+| A3: Increase R&D | H (7) | MH (6) | EH (9) | H (7) | EH (9) | EH (9) |
+| A4: Financing support | VH (8) | H (7) | VH (8) | VH (8) | VH (8) | VH (8) |
+| A5: Increase education | MH (6) | M (5) | VH (8) | H (7) | VH (8) | VH (8) |
+| A6: Data collection | H (7) | MH (6) | EH (9) | MH (6) | EH (9) | VH (8) |
+| A7: Government intervention on lands | EH (9) | EH (9) | H (7) | VH (8) | H (7) | MH (6) |
+| A8: National consensus | EH (9) | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) |
+
+---
+
+### EXPERT 3 - Decision Matrix
+
+#### Strength Subfactors
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | MH (6) | EH (9) | M (5) | VH (8) | M (5) | H (7) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | H (7) | EH (9) | H (7) | VH (8) |
+| A3: Increase R&D | M (5) | MH (6) | MH (6) | VH (8) | EH (9) | MH (6) |
+| A4: Financing support | H (7) | H (7) | H (7) | EH (9) | VH (8) | VH (8) |
+| A5: Increase education | M (5) | MH (6) | M (5) | H (7) | EH (9) | M (5) |
+| A6: Data collection | VH (8) | M (5) | EH (9) | MH (6) | VH (8) | MH (6) |
+| A7: Government intervention on lands | MH (6) | VH (8) | EH (9) | H (7) | ML (4) | H (7) |
+| A8: National consensus | H (7) | VH (8) | H (7) | EH (9) | H (7) | VH (8) |
+
+#### Weakness Subfactors
+
+| Alternative | W1 | W2 | W3 | W4 | W5 | W6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | VH (8) | M (5) | H (7) | H (7) | VH (8) |
+| A2: Foster foreign cooperation | VH (8) | VH (8) | EH (9) | EH (9) | VH (8) | H (7) |
+| A3: Increase R&D | H (7) | MH (6) | EH (9) | VH (8) | VH (8) | H (7) |
+| A4: Financing support | VH (8) | H (7) | VH (8) | EH (9) | H (7) | VH (8) |
+| A5: Increase education | VH (8) | M (5) | VH (8) | M (5) | EH (9) | MH (6) |
+| A6: Data collection | EH (9) | MH (6) | H (7) | ML (4) | VH (8) | H (7) |
+| A7: Government intervention on lands | VH (8) | EH (9) | MH (6) | H (7) | MH (6) | EH (9) |
+| A8: National consensus | EH (9) | EH (9) | H (7) | VH (8) | EH (9) | EH (9) |
+
+#### Opportunity Subfactors
+
+| Alternative | O1 | O2 | O3 | O4 | O5 | O6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | M (5) | H (7) | VH (8) | H (7) | M (5) |
+| A2: Foster foreign cooperation | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) | VH (8) |
+| A3: Increase R&D | H (7) | VH (8) | VH (8) | H (7) | VH (8) | EH (9) |
+| A4: Financing support | VH (8) | VH (8) | EH (9) | EH (9) | EH (9) | VH (8) |
+| A5: Increase education | MH (6) | VH (8) | H (7) | H (7) | VH (8) | MH (6) |
+| A6: Data collection | H (7) | VH (8) | VH (8) | MH (6) | VH (8) | VH (8) |
+| A7: Government intervention on lands | H (7) | M (5) | H (7) | VH (8) | VH (8) | ML (4) |
+| A8: National consensus | EH (9) | VH (8) | VH (8) | EH (9) | EH (9) | H (7) |
+
+#### Threat Subfactors
+
+| Alternative | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | VH (8) | H (7) | M (5) | EH (9) | MH (6) | MH (6) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | VH (8) | VH (8) | EH (9) | VH (8) |
+| A3: Increase R&D | H (7) | M (5) | EH (9) | H (7) | EH (9) | EH (9) |
+| A4: Financing support | EH (9) | H (7) | VH (8) | VH (8) | VH (8) | VH (8) |
+| A5: Increase education | MH (6) | ML (4) | VH (8) | MH (6) | VH (8) | VH (8) |
+| A6: Data collection | H (7) | MH (6) | VH (8) | MH (6) | EH (9) | VH (8) |
+| A7: Government intervention on lands | VH (8) | EH (9) | H (7) | VH (8) | H (7) | M (5) |
+| A8: National consensus | EH (9) | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) |
+
+---
+
+### EXPERT 4 - Decision Matrix
+
+#### Strength Subfactors
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | M (5) | VH (8) | MH (6) | VH (8) | MH (6) | VH (8) |
+| A2: Foster foreign cooperation | VH (8) | VH (8) | H (7) | VH (8) | VH (8) | EH (9) |
+| A3: Increase R&D | MH (6) | M (5) | MH (6) | H (7) | EH (9) | H (7) |
+| A4: Financing support | H (7) | MH (6) | VH (8) | EH (9) | H (7) | EH (9) |
+| A5: Increase education | ML (4) | M (5) | ML (4) | H (7) | VH (8) | MH (6) |
+| A6: Data collection | H (7) | M (5) | VH (8) | MH (6) | VH (8) | M (5) |
+| A7: Government intervention on lands | M (5) | VH (8) | EH (9) | H (7) | L (3) | H (7) |
+| A8: National consensus | H (7) | EH (9) | H (7) | EH (9) | H (7) | VH (8) |
+
+#### Weakness Subfactors
+
+| Alternative | W1 | W2 | W3 | W4 | W5 | W6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | EH (9) | MH (6) | H (7) | H (7) | VH (8) |
+| A2: Foster foreign cooperation | VH (8) | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) |
+| A3: Increase R&D | H (7) | M (5) | EH (9) | VH (8) | VH (8) | H (7) |
+| A4: Financing support | EH (9) | H (7) | VH (8) | EH (9) | VH (8) | EH (9) |
+| A5: Increase education | VH (8) | ML (4) | VH (8) | MH (6) | EH (9) | M (5) |
+| A6: Data collection | VH (8) | M (5) | H (7) | M (5) | EH (9) | MH (6) |
+| A7: Government intervention on lands | VH (8) | VH (8) | M (5) | MH (6) | MH (6) | VH (8) |
+| A8: National consensus | EH (9) | EH (9) | H (7) | VH (8) | EH (9) | EH (9) |
+
+#### Opportunity Subfactors
+
+| Alternative | O1 | O2 | O3 | O4 | O5 | O6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | MH (6) | H (7) | VH (8) | VH (8) | M (5) |
+| A2: Foster foreign cooperation | EH (9) | VH (8) | EH (9) | EH (9) | VH (8) | VH (8) |
+| A3: Increase R&D | H (7) | VH (8) | VH (8) | H (7) | VH (8) | EH (9) |
+| A4: Financing support | VH (8) | VH (8) | EH (9) | EH (9) | EH (9) | VH (8) |
+| A5: Increase education | MH (6) | VH (8) | H (7) | H (7) | VH (8) | M (5) |
+| A6: Data collection | H (7) | VH (8) | VH (8) | MH (6) | EH (9) | VH (8) |
+| A7: Government intervention on lands | H (7) | MH (6) | H (7) | VH (8) | VH (8) | M (5) |
+| A8: National consensus | VH (8) | EH (9) | EH (9) | EH (9) | EH (9) | H (7) |
+
+#### Threat Subfactors
+
+| Alternative | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | VH (8) | H (7) | MH (6) | EH (9) | M (5) | H (7) |
+| A2: Foster foreign cooperation | EH (9) | VH (8) | VH (8) | VH (8) | VH (8) | VH (8) |
+| A3: Increase R&D | H (7) | MH (6) | VH (8) | H (7) | EH (9) | EH (9) |
+| A4: Financing support | VH (8) | H (7) | VH (8) | VH (8) | VH (8) | VH (8) |
+| A5: Increase education | MH (6) | M (5) | VH (8) | H (7) | VH (8) | VH (8) |
+| A6: Data collection | H (7) | MH (6) | VH (8) | M (5) | EH (9) | VH (8) |
+| A7: Government intervention on lands | VH (8) | EH (9) | H (7) | VH (8) | H (7) | MH (6) |
+| A8: National consensus | EH (9) | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) |
+
+---
+
+### EXPERT 5 - Decision Matrix
+
+#### Strength Subfactors
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | MH (6) | VH (8) | M (5) | H (7) | M (5) | H (7) |
+| A2: Foster foreign cooperation | EH (9) | H (7) | H (7) | VH (8) | VH (8) | EH (9) |
+| A3: Increase R&D | M (5) | M (5) | M (5) | H (7) | VH (8) | MH (6) |
+| A4: Financing support | H (7) | H (7) | VH (8) | VH (8) | VH (8) | VH (8) |
+| A5: Increase education | M (5) | MH (6) | ML (4) | MH (6) | EH (9) | M (5) |
+| A6: Data collection | VH (8) | ML (4) | EH (9) | M (5) | EH (9) | MH (6) |
+| A7: Government intervention on lands | M (5) | H (7) | VH (8) | MH (6) | ML (4) | MH (6) |
+| A8: National consensus | H (7) | VH (8) | MH (6) | EH (9) | H (7) | H (7) |
+
+#### Weakness Subfactors
+
+| Alternative | W1 | W2 | W3 | W4 | W5 | W6 |
+|-------------|----|----|----|----|----|-
+
+####### PROMPT #########
+
+Continue
+
+####### RESPONSE #########
+
+---|
+| A1: Strengthen political regime | H (7) | VH (8) | MH (6) | MH (6) | H (7) | H (7) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | VH (8) | EH (9) | H (7) | VH (8) |
+| A3: Increase R&D | MH (6) | M (5) | EH (9) | H (7) | H (7) | MH (6) |
+| A4: Financing support | VH (8) | MH (6) | H (7) | EH (9) | H (7) | VH (8) |
+| A5: Increase education | VH (8) | ML (4) | H (7) | M (5) | EH (9) | M (5) |
+| A6: Data collection | VH (8) | M (5) | MH (6) | ML (4) | VH (8) | MH (6) |
+| A7: Government intervention on lands | H (7) | VH (8) | ML (4) | MH (6) | M (5) | VH (8) |
+| A8: National consensus | VH (8) | EH (9) | MH (6) | H (7) | VH (8) | EH (9) |
+
+#### Opportunity Subfactors
+
+| Alternative | O1 | O2 | O3 | O4 | O5 | O6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | MH (6) | M (5) | H (7) | VH (8) | H (7) | MH (6) |
+| A2: Foster foreign cooperation | VH (8) | VH (8) | EH (9) | VH (8) | EH (9) | VH (8) |
+| A3: Increase R&D | MH (6) | VH (8) | VH (8) | MH (6) | H (7) | VH (8) |
+| A4: Financing support | H (7) | H (7) | EH (9) | EH (9) | VH (8) | H (7) |
+| A5: Increase education | M (5) | EH (9) | MH (6) | MH (6) | VH (8) | M (5) |
+| A6: Data collection | MH (6) | H (7) | H (7) | M (5) | VH (8) | H (7) |
+| A7: Government intervention on lands | MH (6) | MH (6) | MH (6) | H (7) | H (7) | ML (4) |
+| A8: National consensus | VH (8) | VH (8) | VH (8) | VH (8) | EH (9) | MH (6) |
+
+#### Threat Subfactors
+
+| Alternative | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|
+| A1: Strengthen political regime | H (7) | MH (6) | MH (6) | EH (9) | M (5) | MH (6) |
+| A2: Foster foreign cooperation | VH (8) | H (7) | VH (8) | H (7) | VH (8) | VH (8) |
+| A3: Increase R&D | MH (6) | M (5) | VH (8) | MH (6) | EH (9) | EH (9) |
+| A4: Financing support | VH (8) | MH (6) | H (7) | H (7) | H (7) | VH (8) |
+| A5: Increase education | M (5) | ML (4) | H (7) | MH (6) | H (7) | H (7) |
+| A6: Data collection | MH (6) | M (5) | VH (8) | M (5) | EH (9) | H (7) |
+| A7: Government intervention on lands | VH (8) | EH (9) | MH (6) | H (7) | MH (6) | M (5) |
+| A8: National consensus | EH (9) | H (7) | H (7) | EH (9) | H (7) | H (7) |
+
+---
+
+## Summary
+
+This comprehensive SWOT-based MCDA evaluation provides:
+
+1. **Subfactor importance ratings** from 5 experts across all 24 subfactors (6 Strengths, 6 Weaknesses, 6 Opportunities, 6 Threats)
+
+2. **Complete decision matrices** for each of the 5 experts, evaluating all 8 policy alternatives against all 24 subfactors
+
+The judgments reflect expert consensus on key priorities:
+- **Critical strengths**: Geographic location, renewable energy policy framework, and market openness
+- **Major weaknesses**: High costs, bureaucracy, and poor grid infrastructure
+- **Key opportunities**: Funding availability, increasing demand, and global climate awareness
+- **Significant threats**: Policy discontinuity, insufficient R&D, and data gaps
+
+The alternatives are evaluated with **A2 (Foster foreign cooperation)**, **A4 (Financing support)**, and **A8 (National consensus)** generally receiving higher scores across experts, while **A5 (Increase education)** and **A7 (Government land intervention)** show more specialized impacts on specific subfactors.

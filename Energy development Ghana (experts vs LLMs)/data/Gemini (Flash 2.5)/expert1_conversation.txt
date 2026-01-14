@@ -1,0 +1,178 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+That's a fascinating and highly relevant problem! Applying **Multi-Criteria Decision Analysis (MCDA)** to the **SWOT framework** for prioritizing renewable energy policy responses in Ghana is a robust approach. As an expert, I'll provide the required evaluations using a **9-point linguistic scale** for the subfactors and the policy alternatives.
+
+The linguistic scale and their corresponding numerical values for an MCDA approach (like AHP or TOPSIS) are:
+
+| Linguistic Scale | Abbreviation | Numerical Value |
+| :--- | :--- | :--- |
+| Extremely Low | EL | 1 |
+| Very Low | VL | 2 |
+| Low | L | 3 |
+| Moderately Low | ML | 4 |
+| Medium (Average) | M | 5 |
+| Moderately High | MH | 6 |
+| High | H | 7 |
+| Very High | VH | 8 |
+| Extremely High | EH | 9 |
+
+---
+
+## 1. SWOT Factor Subfactor Evaluation 📈
+
+This section evaluates the **relative importance (weight)** of the subfactors *within* their respective main SWOT factor. This is a crucial step in the MCDA process.
+
+### **Strength Subfactors Evaluation**
+
+| Subfactor | Description | Linguistic Judgment | Abbreviation |
+| :--- | :--- | :--- | :--- |
+| **S1** | Geographical location | Extremely High | EH |
+| **S2** | Political stability | Very High | VH |
+| **S3** | Rich land resource | High | H |
+| **S4** | Availability of renewable energy act and incentives | Very High | VH |
+| **S5** | Existence of research institutions | Moderately High | MH |
+| **S6** | The market is open to private investment | High | H |
+
+---
+
+### **Weakness Subfactors Evaluation**
+
+| Subfactor | Description | Linguistic Judgment | Abbreviation |
+| :--- | :--- | :--- | :--- |
+| **W1** | Less attention on off grid renewable energy systems | High | H |
+| **W2** | Bureaucratic licensing processes | Extremely High | EH |
+| **W3** | Lack of commercialization of scientific research | High | H |
+| **W4** | High initial cost of renewable energy projects | Extremely High | EH |
+| **W5** | Lack of public awareness | Moderately High | MH |
+| **W6** | Poor grid system | Very High | VH |
+
+---
+
+### **Opportunity Subfactors Evaluation**
+
+| Subfactor | Description | Linguistic Judgment | Abbreviation |
+| :--- | :--- | :--- | :--- |
+| **O1** | Regional integration | High | H |
+| **O2** | Increasing global awareness of climate change | Very High | VH |
+| **O3** | Availability of funding sources | Extremely High | EH |
+| **O4** | Reduction of pressure on national budget | Moderately High | MH |
+| **O5** | Increasing electricity demand | Very High | VH |
+| **O6** | Decreasing prices of renewable energy and equipment | Extremely High | EH |
+
+---
+
+### **Threat Subfactors Evaluation**
+
+| Subfactor | Description | Linguistic Judgment | Abbreviation |
+| :--- | :--- | :--- | :--- |
+| **T1** | Unequal playing field | Very High | VH |
+| **T2** | Land tenure system | Extremely High | EH |
+| **T3** | Changing climate conditions | High | H |
+| **T4** | Discontinuity in energy policies | Extremely High | EH |
+| **T5** | Insufficient and unreliable renewable energy resource data | Very High | VH |
+| **T6** | Insufficient research and development | Moderately High | MH |
+
+---
+
+## 2. Alternatives Evaluation Against All Subfactors 💡
+
+This section evaluates the **performance** of each policy alternative ($A1$ to $A8$) against every subfactor ($S1$ to $T6$). The judgment reflects how well a policy addresses a **Weakness/Threat** or capitalizes on a **Strength/Opportunity**.
+
+*Note: The scale for W and T factors indicates the **effectiveness of the alternative in mitigating/overcoming** the weakness/threat. For S and O factors, it indicates the **effectiveness of the alternative in leveraging/seizing** the strength/opportunity.*
+
+| Subfactor | Description | **A1** (Strengthen political regime) | **A2** (Foster Foreign cooperation) | **A3** (Increase R&D) | **A4** (Financing support) | **A5** (Increase education) | **A6** (Data collection) | **A7** (Gov. intervention on lands) | **A8** (National consensus) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1** (Geographical location) | **EH** | M | VH | MH | L | L | H | L | M |
+| **S2** (Political stability) | **VH** | EH | M | M | L | L | M | L | VH |
+| **S3** (Rich land resource) | **H** | L | M | H | M | L | L | VH | M |
+| **S4** (Act and incentives) | **VH** | VH | M | M | H | M | M | L | EH |
+| **S5** (Research institutions) | **MH** | M | M | EH | L | MH | H | L | H |
+| **S6** (Market open to private investment) | **H** | M | H | M | VH | L | L | L | H |
+| **W1** (Less attention on off-grid) | **H** | M | H | M | VH | L | L | L | H |
+| **W2** (Bureaucratic licensing) | **EH** | VH | M | M | L | L | M | L | EH |
+| **W3** (Lack of commercialization) | **H** | L | M | EH | M | L | H | L | H |
+| **W4** (High initial cost) | **EH** | M | H | L | EH | M | L | L | M |
+| **W5** (Lack of public awareness) | **MH** | L | L | L | M | EH | L | L | VH |
+| **W6** (Poor grid system) | **VH** | M | VH | VH | H | L | M | L | H |
+| **O1** (Regional integration) | **H** | M | EH | H | M | L | L | L | VH |
+| **O2** (Global awareness of climate change) | **VH** | M | VH | H | L | H | M | L | M |
+| **O3** (Availability of funding sources) | **EH** | L | EH | M | VH | L | L | L | M |
+| **O4** (Reduction of pressure on national budget) | **MH** | M | H | L | VH | L | L | L | M |
+| **O5** (Increasing electricity demand) | **VH** | M | VH | VH | H | M | L | L | VH |
+| **O6** (Decreasing prices of equipment) | **EH** | L | H | M | M | L | L | L | M |
+| **T1** (Unequal playing field) | **VH** | VH | M | L | M | L | L | L | EH |
+| **T2** (Land tenure system) | **EH** | M | L | L | L | L | L | EH | M |
+| **T3** (Changing climate conditions) | **H** | L | M | VH | L | L | EH | L | M |
+| **T4** (Discontinuity in policies) | **EH** | EH | L | L | L | L | L | L | EH |
+| **T5** (Insufficient and unreliable data) | **VH** | L | L | H | L | L | EH | L | M |
+| **T6** (Insufficient R&D) | **MH** | L | M | EH | L | M | VH | L | H |
+
+### **Key**
+* **EH** = Extremely High (9)
+* **VH** = Very High (8)
+* **H** = High (7)
+* **MH** = Moderately High (6)
+* **M** = Medium (5)
+* **ML** = Moderately Low (4)
+* **L** = Low (3)
+* **VL** = Very Low (2)
+* **EL** = Extremely Low (1)
+
+This comprehensive matrix provides the necessary inputs for the final steps of your MCDA, such as calculating the weighted scores and ranking the policy alternatives.
+
+Would you like me to proceed to the next step and apply a specific MCDA method, such as the Analytic Hierarchy Process (AHP) or TOPSIS, using the numerical values associated with these linguistic judgments to determine the final policy ranking?

@@ -1,0 +1,303 @@
+####### PROMPT #########
+
+You are representing a group of experts in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+
+Your group of experts includes 5 people. Each of them must made their own evaluation. For SWOT subfactors the tables should include given SWOT group factors and judgments of all experts. For decision matrices, a separate decision matrix as table for each expert. Provide judgments scores for all experts.
+
+####### RESPONSE #########
+
+This is a complex Multi-Criteria Decision Analysis (MCDA) problem combining SWOT analysis, which typically requires expert input and significant calculation. As an AI, I cannot genuinely represent the subjective judgment of five distinct human experts.
+
+However, I can **simulate** the process by providing sample evaluations based on a common understanding of the Ghanaian renewable energy sector challenges and policy responses.
+
+I will use the requested 9-point linguistic scale and convert it to its numerical equivalent for the MCDA process, where 1 is **Extremely Low (EL)** and 9 is **Extremely High (EH)**. The full scale is:
+
+| Linguistic Term | Abbreviation | Score |
+| :--- | :--- | :--- |
+| Extremely Low | **EL** | 1 |
+| Very Low | **VL** | 2 |
+| Low | **L** | 3 |
+| Medium Low | **ML** | 4 |
+| Medium | **M** | 5 |
+| Medium High | **MH** | 6 |
+| High | **H** | 7 |
+| Very High | **VH** | 8 |
+| Extremely High | **EH** | 9 |
+
+---
+
+## 💡 Simulated Expert Evaluation of SWOT Subfactors
+
+These tables represent the simulated subjective importance/weight of each subfactor within its respective SWOT group, as judged by five "experts." The higher the score, the more important/relevant the factor is perceived to be.
+
+### Strengths (S) Evaluation
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1: Geographical location** | VH (8) | H (7) | VH (8) | VH (8) | EH (9) |
+| **S2: Political stability** | EH (9) | VH (8) | EH (9) | H (7) | VH (8) |
+| **S3: Rich land resource** | H (7) | H (7) | MH (6) | VH (8) | H (7) |
+| **S4: Availability of renewable energy act and incentives** | VH (8) | EH (9) | VH (8) | EH (9) | VH (8) |
+| **S5: Existence of research institutions** | M (5) | ML (4) | L (3) | M (5) | ML (4) |
+| **S6: The market is open to private investment** | EH (9) | VH (8) | VH (8) | EH (9) | EH (9) |
+
+---
+
+### Weaknesses (W) Evaluation
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **W1: Less attention on off grid renewable energy systems** | VH (8) | H (7) | VH (8) | VH (8) | EH (9) |
+| **W2: Bureaucratic licensing processes** | EH (9) | EH (9) | VH (8) | EH (9) | VH (8) |
+| **W3: Lack of commercialization of scientific research** | H (7) | VH (8) | H (7) | M (5) | MH (6) |
+| **W4: High initial cost of renewable energy projects** | EH (9) | EH (9) | EH (9) | EH (9) | EH (9) |
+| **W5: Lack of public awareness** | M (5) | MH (6) | L (3) | VH (8) | H (7) |
+| **W6: Poor grid system** | VH (8) | VH (8) | EH (9) | VH (8) | VH (8) |
+
+---
+
+### Opportunities (O) Evaluation
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **O1: Regional integration** | VH (8) | EH (9) | H (7) | VH (8) | VH (8) |
+| **O2: Increasing global awareness of climate change** | EH (9) | H (7) | VH (8) | H (7) | EH (9) |
+| **O3: Availability of funding sources** | VH (8) | EH (9) | EH (9) | VH (8) | VH (8) |
+| **O4: Reduction of pressure on national budget** | H (7) | H (7) | H (7) | M (5) | MH (6) |
+| **O5: Increasing electricity demand** | EH (9) | VH (8) | EH (9) | EH (9) | EH (9) |
+| **O6: Decreasing prices of renewable energy and equipment** | H (7) | H (7) | VH (8) | VH (8) | H (7) |
+
+---
+
+### Threats (T) Evaluation
+
+| Subfactor | Expert 1 | Expert 2 | Expert 3 | Expert 4 | Expert 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **T1: Unequal playing field** | EH (9) | VH (8) | EH (9) | VH (8) | EH (9) |
+| **T2: Land tenure system** | VH (8) | EH (9) | VH (8) | EH (9) | VH (8) |
+| **T3: Changing climate conditions** | M (5) | MH (6) | M (5) | VH (8) | H (7) |
+| **T4: Discontinuity in energy policies** | EH (9) | EH (9) | EH (9) | VH (8) | EH (9) |
+| **T5: Insufficient and unreliable renewable energy resource data** | H (7) | VH (8) | H (7) | VH (8) | H (7) |
+| **T6: Insufficient research and development** | M (5) | L (3) | ML (4) | M (5) | ML (4) |
+
+---
+
+## 📝 Simulated Expert Decision Matrices
+
+These tables represent the simulated expert judgments on how effectively each **Alternative (Policy Response, A1-A8)** addresses or leverages each **Subfactor (S1-T6)**. The evaluation scale is the same (1=EL to 9=EH), where a higher score means the alternative is a better policy response for that specific subfactor.
+
+The alternatives are:
+* **A1:** Strengthen political regime
+* **A2:** Foster Foreign cooperation
+* **A3:** Increase research and development
+* **A4:** Financing support
+* **A5:** Increase education
+* **A6:** Data collection
+* **A7:** Government intervention on lands
+* **A8:** National consensus...
+
+### Expert 1 Decision Matrix
+
+| Subfactor | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1** (Geo) | M (5) | H (7) | L (3) | L (3) | M (5) | M (5) | L (3) | M (5) |
+| **S2** (Pol Stab) | EH (9) | H (7) | M (5) | M (5) | ML (4) | L (3) | ML (4) | VH (8) |
+| **S3** (Land) | L (3) | M (5) | ML (4) | L (3) | ML (4) | M (5) | EH (9) | L (3) |
+| **S4** (Act) | EH (9) | VH (8) | H (7) | VH (8) | M (5) | L (3) | L (3) | VH (8) |
+| **S5** (Res Inst) | M (5) | VH (8) | EH (9) | H (7) | H (7) | H (7) | L (3) | H (7) |
+| **S6** (Mkt Open) | VH (8) | H (7) | M (5) | EH (9) | M (5) | L (3) | M (5) | VH (8) |
+| **W1** (Off Grid) | M (5) | H (7) | H (7) | VH (8) | H (7) | L (3) | L (3) | H (7) |
+| **W2** (Bureau) | EH (9) | M (5) | M (5) | L (3) | L (3) | L (3) | L (3) | VH (8) |
+| **W3** (Comm) | M (5) | H (7) | EH (9) | H (7) | M (5) | H (7) | L (3) | H (7) |
+| **W4** (High Cost) | L (3) | H (7) | L (3) | EH (9) | L (3) | L (3) | L (3) | M (5) |
+| **W5** (Aware) | L (3) | M (5) | L (3) | L (3) | EH (9) | L (3) | L (3) | M (5) |
+| **W6** (Poor Grid) | M (5) | H (7) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O1** (Region) | VH (8) | EH (9) | H (7) | H (7) | M (5) | M (5) | L (3) | VH (8) |
+| **O2** (Climate) | M (5) | H (7) | H (7) | M (5) | EH (9) | M (5) | L (3) | H (7) |
+| **O3** (Fund) | M (5) | EH (9) | H (7) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O4** (Budget) | L (3) | H (7) | M (5) | VH (8) | M (5) | L (3) | L (3) | M (5) |
+| **O5** (Demand) | L (3) | VH (8) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O6** (Price) | L (3) | H (7) | M (5) | VH (8) | L (3) | L (3) | L (3) | M (5) |
+| **T1** (Unequal) | EH (9) | M (5) | M (5) | VH (8) | L (3) | L (3) | L (3) | VH (8) |
+| **T2** (Land Ten) | L (3) | L (3) | L (3) | L (3) | L (3) | M (5) | EH (9) | L (3) |
+| **T3** (Climate) | L (3) | M (5) | EH (9) | L (3) | H (7) | VH (8) | L (3) | M (5) |
+| **T4** (Discont) | EH (9) | H (7) | M (5) | M (5) | M (5) | L (3) | M (5) | EH (9) |
+| **T5** (Data) | L (3) | M (5) | H (7) | L (3) | L (3) | EH (9) | L (3) | L (3) |
+| **T6** (R&D) | M (5) | H (7) | EH (9) | H (7) | VH (8) | VH (8) | L (3) | H (7) |
+
+---
+
+### Expert 2 Decision Matrix
+
+| Subfactor | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1** (Geo) | M (5) | M (5) | M (5) | L (3) | H (7) | VH (8) | M (5) | M (5) |
+| **S2** (Pol Stab) | VH (8) | H (7) | ML (4) | M (5) | ML (4) | L (3) | L (3) | EH (9) |
+| **S3** (Land) | L (3) | M (5) | M (5) | L (3) | L (3) | M (5) | EH (9) | L (3) |
+| **S4** (Act) | H (7) | H (7) | H (7) | VH (8) | M (5) | L (3) | L (3) | VH (8) |
+| **S5** (Res Inst) | L (3) | M (5) | EH (9) | H (7) | H (7) | VH (8) | L (3) | M (5) |
+| **S6** (Mkt Open) | VH (8) | H (7) | M (5) | EH (9) | M (5) | L (3) | M (5) | H (7) |
+| **W1** (Off Grid) | L (3) | M (5) | H (7) | EH (9) | VH (8) | L (3) | L (3) | M (5) |
+| **W2** (Bureau) | EH (9) | L (3) | L (3) | L (3) | L (3) | L (3) | L (3) | VH (8) |
+| **W3** (Comm) | M (5) | VH (8) | EH (9) | VH (8) | M (5) | H (7) | L (3) | H (7) |
+| **W4** (High Cost) | L (3) | VH (8) | L (3) | EH (9) | L (3) | L (3) | L (3) | M (5) |
+| **W5** (Aware) | L (3) | M (5) | L (3) | L (3) | EH (9) | L (3) | L (3) | M (5) |
+| **W6** (Poor Grid) | M (5) | H (7) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O1** (Region) | M (5) | EH (9) | H (7) | H (7) | M (5) | M (5) | L (3) | VH (8) |
+| **O2** (Climate) | L (3) | M (5) | VH (8) | M (5) | EH (9) | H (7) | L (3) | M (5) |
+| **O3** (Fund) | M (5) | EH (9) | H (7) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O4** (Budget) | L (3) | VH (8) | M (5) | EH (9) | M (5) | L (3) | L (3) | L (3) |
+| **O5** (Demand) | L (3) | H (7) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O6** (Price) | L (3) | VH (8) | M (5) | VH (8) | L (3) | L (3) | L (3) | L (3) |
+| **T1** (Unequal) | EH (9) | L (3) | L (3) | VH (8) | L (3) | L (3) | L (3) | VH (8) |
+| **T2** (Land Ten) | L (3) | L (3) | L (3) | L (3) | L (3) | M (5) | EH (9) | L (3) |
+| **T3** (Climate) | L (3) | L (3) | EH (9) | L (3) | H (7) | VH (8) | L (3) | M (5) |
+| **T4** (Discont) | EH (9) | H (7) | M (5) | M (5) | M (5) | L (3) | M (5) | VH (8) |
+| **T5** (Data) | L (3) | M (5) | H (7) | L (3) | L (3) | EH (9) | L (3) | L (3) |
+| **T6** (R&D) | L (3) | M (5) | EH (9) | H (7) | H (7) | VH (8) | L (3) | M (5) |
+
+---
+
+### Expert 3 Decision Matrix
+
+| Subfactor | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1** (Geo) | M (5) | H (7) | M (5) | M (5) | H (7) | VH (8) | L (3) | M (5) |
+| **S2** (Pol Stab) | EH (9) | H (7) | L (3) | L (3) | M (5) | L (3) | L (3) | VH (8) |
+| **S3** (Land) | L (3) | M (5) | M (5) | L (3) | L (3) | L (3) | EH (9) | L (3) |
+| **S4** (Act) | VH (8) | VH (8) | H (7) | EH (9) | M (5) | L (3) | L (3) | VH (8) |
+| **S5** (Res Inst) | L (3) | M (5) | EH (9) | H (7) | H (7) | VH (8) | L (3) | M (5) |
+| **S6** (Mkt Open) | VH (8) | H (7) | M (5) | EH (9) | M (5) | L (3) | M (5) | H (7) |
+| **W1** (Off Grid) | L (3) | M (5) | H (7) | EH (9) | VH (8) | L (3) | L (3) | M (5) |
+| **W2** (Bureau) | EH (9) | L (3) | L (3) | L (3) | L (3) | L (3) | L (3) | VH (8) |
+| **W3** (Comm) | L (3) | VH (8) | EH (9) | H (7) | M (5) | VH (8) | L (3) | H (7) |
+| **W4** (High Cost) | L (3) | H (7) | L (3) | EH (9) | L (3) | L (3) | L (3) | M (5) |
+| **W5** (Aware) | L (3) | M (5) | L (3) | L (3) | EH (9) | L (3) | L (3) | L (3) |
+| **W6** (Poor Grid) | M (5) | VH (8) | EH (9) | VH (8) | M (5) | M (5) | L (3) | H (7) |
+| **O1** (Region) | M (5) | EH (9) | H (7) | H (7) | M (5) | M (5) | L (3) | VH (8) |
+| **O2** (Climate) | L (3) | M (5) | VH (8) | M (5) | EH (9) | H (7) | L (3) | M (5) |
+| **O3** (Fund) | L (3) | EH (9) | H (7) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O4** (Budget) | L (3) | VH (8) | M (5) | EH (9) | M (5) | L (3) | L (3) | L (3) |
+| **O5** (Demand) | L (3) | VH (8) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O6** (Price) | L (3) | H (7) | M (5) | VH (8) | L (3) | L (3) | L (3) | L (3) |
+| **T1** (Unequal) | EH (9) | L (3) | L (3) | VH (8) | L (3) | L (3) | L (3) | VH (8) |
+| **T2** (Land Ten) | L (3) | L (3) | L (3) | L (3) | L (3) | L (3) | EH (9) | L (3) |
+| **T3** (Climate) | L (3) | L (3) | EH (9) | L (3) | H (7) | VH (8) | L (3) | M (5) |
+| **T4** (Discont) | EH (9) | H (7) | M (5) | M (5) | M (5) | L (3) | M (5) | EH (9) |
+| **T5** (Data) | L (3) | M (5) | H (7) | L (3) | L (3) | EH (9) | L (3) | L (3) |
+| **T6** (R&D) | L (3) | M (5) | EH (9) | H (7) | H (7) | VH (8) | L (3) | M (5) |
+
+---
+
+### Expert 4 Decision Matrix
+
+| Subfactor | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1** (Geo) | M (5) | H (7) | L (3) | L (3) | H (7) | VH (8) | M (5) | M (5) |
+| **S2** (Pol Stab) | EH (9) | H (7) | ML (4) | M (5) | ML (4) | L (3) | L (3) | VH (8) |
+| **S3** (Land) | L (3) | M (5) | ML (4) | L (3) | ML (4) | M (5) | EH (9) | L (3) |
+| **S4** (Act) | VH (8) | VH (8) | H (7) | EH (9) | M (5) | L (3) | L (3) | VH (8) |
+| **S5** (Res Inst) | L (3) | M (5) | EH (9) | H (7) | H (7) | VH (8) | L (3) | M (5) |
+| **S6** (Mkt Open) | VH (8) | H (7) | M (5) | EH (9) | M (5) | L (3) | M (5) | VH (8) |
+| **W1** (Off Grid) | L (3) | M (5) | H (7) | EH (9) | VH (8) | L (3) | L (3) | M (5) |
+| **W2** (Bureau) | EH (9) | L (3) | L (3) | L (3) | L (3) | L (3) | L (3) | VH (8) |
+| **W3** (Comm) | L (3) | H (7) | EH (9) | H (7) | M (5) | H (7) | L (3) | H (7) |
+| **W4** (High Cost) | L (3) | H (7) | L (3) | EH (9) | L (3) | L (3) | L (3) | M (5) |
+| **W5** (Aware) | L (3) | M (5) | L (3) | L (3) | EH (9) | L (3) | L (3) | M (5) |
+| **W6** (Poor Grid) | M (5) | H (7) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O1** (Region) | M (5) | EH (9) | H (7) | H (7) | M (5) | M (5) | L (3) | VH (8) |
+| **O2** (Climate) | L (3) | M (5) | VH (8) | M (5) | EH (9) | H (7) | L (3) | M (5) |
+| **O3** (Fund) | M (5) | EH (9) | H (7) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O4** (Budget) | L (3) | VH (8) | M (5) | EH (9) | M (5) | L (3) | L (3) | L (3) |
+| **O5** (Demand) | L (3) | H (7) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O6** (Price) | L (3) | H (7) | M (5) | VH (8) | L (3) | L (3) | L (3) | M (5) |
+| **T1** (Unequal) | EH (9) | L (3) | L (3) | VH (8) | L (3) | L (3) | L (3) | VH (8) |
+| **T2** (Land Ten) | L (3) | L (3) | L (3) | L (3) | L (3) | M (5) | EH (9) | L (3) |
+| **T3** (Climate) | L (3) | L (3) | EH (9) | L (3) | H (7) | VH (8) | L (3) | M (5) |
+| **T4** (Discont) | EH (9) | H (7) | M (5) | M (5) | M (5) | L (3) | M (5) | VH (8) |
+| **T5** (Data) | L (3) | M (5) | H (7) | L (3) | L (3) | EH (9) | L (3) | L (3) |
+| **T6** (R&D) | L (3) | M (5) | EH (9) | H (7) | H (7) | VH (8) | L (3) | M (5) |
+
+---
+
+### Expert 5 Decision Matrix
+
+| Subfactor | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **S1** (Geo) | M (5) | H (7) | L (3) | L (3) | H (7) | VH (8) | M (5) | M (5) |
+| **S2** (Pol Stab) | EH (9) | H (7) | ML (4) | M (5) | ML (4) | L (3) | L (3) | VH (8) |
+| **S3** (Land) | L (3) | M (5) | ML (4) | L (3) | ML (4) | M (5) | EH (9) | L (3) |
+| **S4** (Act) | VH (8) | VH (8) | H (7) | EH (9) | M (5) | L (3) | L (3) | VH (8) |
+| **S5** (Res Inst) | M (5) | VH (8) | EH (9) | H (7) | H (7) | H (7) | L (3) | H (7) |
+| **S6** (Mkt Open) | EH (9) | VH (8) | M (5) | EH (9) | M (5) | L (3) | M (5) | VH (8) |
+| **W1** (Off Grid) | M (5) | H (7) | H (7) | EH (9) | VH (8) | L (3) | L (3) | H (7) |
+| **W2** (Bureau) | EH (9) | L (3) | L (3) | L (3) | L (3) | L (3) | L (3) | EH (9) |
+| **W3** (Comm) | M (5) | H (7) | EH (9) | H (7) | M (5) | H (7) | L (3) | H (7) |
+| **W4** (High Cost) | L (3) | H (7) | L (3) | EH (9) | L (3) | L (3) | L (3) | M (5) |
+| **W5** (Aware) | L (3) | M (5) | L (3) | L (3) | EH (9) | L (3) | L (3) | M (5) |
+| **W6** (Poor Grid) | M (5) | VH (8) | EH (9) | VH (8) | M (5) | M (5) | L (3) | H (7) |
+| **O1** (Region) | M (5) | EH (9) | H (7) | H (7) | M (5) | M (5) | L (3) | VH (8) |
+| **O2** (Climate) | M (5) | H (7) | VH (8) | M (5) | EH (9) | H (7) | L (3) | H (7) |
+| **O3** (Fund) | M (5) | EH (9) | H (7) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O4** (Budget) | L (3) | H (7) | M (5) | VH (8) | M (5) | L (3) | L (3) | M (5) |
+| **O5** (Demand) | L (3) | VH (8) | VH (8) | EH (9) | M (5) | M (5) | L (3) | H (7) |
+| **O6** (Price) | L (3) | H (7) | M (5) | VH (8) | L (3) | L (3) | L (3) | M (5) |
+| **T1** (Unequal) | EH (9) | L (3) | L (3) | VH (8) | L (3) | L (3) | L (3) | EH (9) |
+| **T2** (Land Ten) | L (3) | L (3) | L (3) | L (3) | L (3) | M (5) | EH (9) | L (3) |
+| **T3** (Climate) | L (3) | M (5) | EH (9) | L (3) | H (7) | VH (8) | L (3) | M (5) |
+| **T4** (Discont) | EH (9) | H (7) | M (5) | M (5) | M (5) | L (3) | M (5) | EH (9) |
+| **T5** (Data) | L (3) | M (5) | H (7) | L (3) | L (3) | EH (9) | L (3) | L (3) |
+| **T6** (R&D) | M (5) | H (7) | EH (9) | H (7) | VH (8) | VH (8) | L (3) | H (7) |
+
+---
+Would you like me to proceed with a **sample calculation** using one of the MCDA methods (e.g., AHP or simple weighted sum) based on the averaged or one expert's scores to determine a final policy response priority?

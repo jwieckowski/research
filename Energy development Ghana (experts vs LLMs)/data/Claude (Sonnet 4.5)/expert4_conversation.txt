@@ -1,0 +1,175 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+# SWOT-MCDA Evaluation for Ghana Renewable Energy Policy Prioritization
+
+## Evaluation Framework
+
+**9-Point Linguistic Scale:**
+- EL (Extremely Low) = 1
+- VL (Very Low) = 2
+- L (Low) = 3
+- ML (Moderately Low) = 4
+- M (Moderate) = 5
+- MH (Moderately High) = 6
+- H (High) = 7
+- VH (Very High) = 8
+- EH (Extremely High) = 9
+
+---
+
+## Part 1: Evaluation of Subfactors within Each SWOT Factor
+
+### Table 1: Importance Weights of STRENGTHS Subfactors
+
+| Subfactor Code | Subfactor Description | Linguistic Rating | Numerical Value |
+|----------------|----------------------|-------------------|-----------------|
+| S1 | Geographical location | VH | 8 |
+| S2 | Political stability | H | 7 |
+| S3 | Rich land resource | H | 7 |
+| S4 | Availability of renewable energy act and incentives | VH | 8 |
+| S5 | Existence of research institutions | MH | 6 |
+| S6 | The market is open to private investment | VH | 8 |
+
+### Table 2: Importance Weights of WEAKNESSES Subfactors
+
+| Subfactor Code | Subfactor Description | Linguistic Rating | Numerical Value |
+|----------------|----------------------|-------------------|-----------------|
+| W1 | Less attention on off-grid renewable energy systems | H | 7 |
+| W2 | Bureaucratic licensing processes | VH | 8 |
+| W3 | Lack of commercialization of scientific research | H | 7 |
+| W4 | High initial cost of renewable energy projects | EH | 9 |
+| W5 | Lack of public awareness | MH | 6 |
+| W6 | Poor grid system | VH | 8 |
+
+### Table 3: Importance Weights of OPPORTUNITIES Subfactors
+
+| Subfactor Code | Subfactor Description | Linguistic Rating | Numerical Value |
+|----------------|----------------------|-------------------|-----------------|
+| O1 | Regional integration | H | 7 |
+| O2 | Increasing global awareness of climate change | VH | 8 |
+| O3 | Availability of funding sources | VH | 8 |
+| O4 | Reduction of pressure on national budget | H | 7 |
+| O5 | Increasing electricity demand | EH | 9 |
+| O6 | Decreasing prices of renewable energy and equipment | VH | 8 |
+
+### Table 4: Importance Weights of THREATS Subfactors
+
+| Subfactor Code | Subfactor Description | Linguistic Rating | Numerical Value |
+|----------------|----------------------|-------------------|-----------------|
+| T1 | Unequal playing field | H | 7 |
+| T2 | Land tenure system | VH | 8 |
+| T3 | Changing climate conditions | H | 7 |
+| T4 | Discontinuity in energy policies | EH | 9 |
+| T5 | Insufficient and unreliable renewable energy resource data | VH | 8 |
+| T6 | Insufficient research and development | VH | 8 |
+
+---
+
+## Part 2: Evaluation of Alternatives Regarding All Subfactors
+
+### Table 5: Performance Matrix - Alternatives vs. All SWOT Subfactors
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 |
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|
+| **A1: Strengthen political regime** | M(5) | EH(9) | M(5) | VH(8) | MH(6) | VH(8) | ML(4) | VH(8) | ML(4) | L(3) | MH(6) | MH(6) |
+| **A2: Foster Foreign cooperation** | MH(6) | H(7) | ML(4) | H(7) | VH(8) | EH(9) | MH(6) | MH(6) | VH(8) | VH(8) | H(7) | H(7) |
+| **A3: Increase R&D** | H(7) | M(5) | H(7) | H(7) | EH(9) | H(7) | VH(8) | M(5) | EH(9) | H(7) | VH(8) | VH(8) |
+| **A4: Financing support** | MH(6) | MH(6) | MH(6) | VH(8) | H(7) | EH(9) | VH(8) | MH(6) | H(7) | EH(9) | H(7) | VH(8) |
+| **A5: Increase education** | M(5) | M(5) | M(5) | MH(6) | VH(8) | H(7) | VH(8) | L(3) | VH(8) | ML(4) | EH(9) | M(5) |
+| **A6: Data collection** | VH(8) | M(5) | H(7) | MH(6) | VH(8) | MH(6) | H(7) | ML(4) | H(7) | M(5) | H(7) | H(7) |
+| **A7: Government intervention on lands** | H(7) | H(7) | EH(9) | H(7) | ML(4) | MH(6) | MH(6) | H(7) | L(3) | MH(6) | M(5) | MH(6) |
+| **A8: National consensus** | MH(6) | EH(9) | MH(6) | EH(9) | H(7) | VH(8) | H(7) | VH(8) | MH(6) | MH(6) | VH(8) | H(7) |
+
+### Table 5 (Continued): Performance Matrix - Alternatives vs. All SWOT Subfactors
+
+| Alternative | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|
+| **A1: Strengthen political regime** | H(7) | MH(6) | H(7) | MH(6) | MH(6) | M(5) | VH(8) | MH(6) | ML(4) | EH(9) | M(5) | MH(6) |
+| **A2: Foster Foreign cooperation** | EH(9) | VH(8) | EH(9) | VH(8) | H(7) | VH(8) | VH(8) | MH(6) | H(7) | H(7) | VH(8) | VH(8) |
+| **A3: Increase R&D** | H(7) | VH(8) | H(7) | H(7) | VH(8) | VH(8) | H(7) | H(7) | VH(8) | H(7) | EH(9) | EH(9) |
+| **A4: Financing support** | VH(8) | H(7) | EH(9) | EH(9) | VH(8) | VH(8) | VH(8) | H(7) | MH(6) | H(7) | H(7) | VH(8) |
+| **A5: Increase education** | MH(6) | VH(8) | MH(6) | M(5) | H(7) | MH(6) | M(5) | M(5) | H(7) | MH(6) | H(7) | H(7) |
+| **A6: Data collection** | H(7) | H(7) | H(7) | MH(6) | VH(8) | H(7) | MH(6) | H(7) | VH(8) | H(7) | EH(9) | VH(8) |
+| **A7: Government intervention on lands** | MH(6) | M(5) | MH(6) | H(7) | VH(8) | M(5) | VH(8) | EH(9) | MH(6) | H(7) | M(5) | ML(4) |
+| **A8: National consensus** | VH(8) | VH(8) | VH(8) | VH(8) | VH(8) | H(7) | EH(9) | VH(8) | H(7) | EH(9) | H(7) | H(7) |
+
+---
+
+## Key Evaluation Rationale:
+
+**Strengths Assessment:**
+- S1, S4, and S6 rated highest (8) as they represent Ghana's core competitive advantages
+- S5 rated moderately high (6) due to limited institutional capacity
+
+**Weaknesses Assessment:**
+- W4 rated highest (9) as initial capital represents the most critical barrier
+- W2 and W6 rated very high (8) as systemic infrastructure challenges
+
+**Opportunities Assessment:**
+- O5 rated highest (9) reflecting urgent electricity demand pressures
+- O2, O3, and O6 rated very high (8) due to favorable global trends
+
+**Threats Assessment:**
+- T4 rated highest (9) as policy discontinuity undermines long-term investment
+- T2, T5, and T6 rated very high (8) as fundamental systemic challenges
+
+**Alternative Performance:**
+- **A2 (Foreign cooperation)** and **A4 (Financing)** score highly across most criteria
+- **A8 (National consensus)** performs exceptionally on policy continuity and governance factors
+- **A3 (R&D)** excels in technical and data-related subfactors
+- **A7 (Land intervention)** specifically addresses land tenure issues but limited broader impact

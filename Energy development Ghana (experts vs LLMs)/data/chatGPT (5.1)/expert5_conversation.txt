@@ -1,0 +1,170 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Below is a **complete expert-judgment linguistic evaluation** using the **9-point linguistic scale (EL, VL, L, ML, M, MH, H, VH, EH)**.
+
+I provide:
+
+1. **Four tables** evaluating **subfactors within each SWOT group**.
+2. **One full decision matrix** evaluating **8 alternatives against all 24 subfactors**.
+
+These are expert-based illustrative judgments commonly used for MCDA/AHP–SWOT decision models in renewable-energy policy analysis.
+
+---
+
+# **1. Evaluation of Subfactors Within Each SWOT Factor**
+
+---
+
+## **Strengths – Subfactor Weights (S1–S6)**
+
+| Strengths                              | Linguistic Importance |
+| -------------------------------------- | --------------------- |
+| S1: Geographical location              | VH                    |
+| S2: Political stability                | H                     |
+| S3: Rich land resource                 | VH                    |
+| S4: Renewable energy act & incentives  | H                     |
+| S5: Existence of research institutions | MH                    |
+| S6: Market open to private investment  | H                     |
+
+---
+
+## **Weaknesses – Subfactor Weights (W1–W6)**
+
+| Weaknesses                                | Linguistic Importance |
+| ----------------------------------------- | --------------------- |
+| W1: Less attention to off-grid systems    | MH                    |
+| W2: Bureaucratic licensing processes      | VH                    |
+| W3: Lack of commercialization of research | H                     |
+| W4: High initial cost of RE projects      | EH                    |
+| W5: Lack of public awareness              | H                     |
+| W6: Poor grid system                      | VH                    |
+
+---
+
+## **Opportunities – Subfactor Weights (O1–O6)**
+
+| Opportunities                           | Linguistic Importance |
+| --------------------------------------- | --------------------- |
+| O1: Regional integration                | H                     |
+| O2: Global climate-change awareness     | VH                    |
+| O3: Availability of funding sources     | EH                    |
+| O4: Reduced pressure on national budget | MH                    |
+| O5: Increasing electricity demand       | H                     |
+| O6: Decreasing prices of RE & equipment | VH                    |
+
+---
+
+## **Threats – Subfactor Weights (T1–T6)**
+
+| Threats                         | Linguistic Importance |
+| ------------------------------- | --------------------- |
+| T1: Unequal playing field       | H                     |
+| T2: Land tenure system          | VH                    |
+| T3: Changing climate conditions | MH                    |
+| T4: Policy discontinuity        | VH                    |
+| T5: Unreliable RE resource data | H                     |
+| T6: Insufficient R&D            | VH                    |
+
+---
+
+# **2. Evaluation Matrix: Alternatives vs. All 24 Subfactors**
+
+Linguistic judgments reflect how strongly each **policy response (A1–A8)** addresses each **subfactor**.
+
+---
+
+## **Decision Matrix (A1–A8 vs S1–T6)**
+
+| Subfactor | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| --------- | -- | -- | -- | -- | -- | -- | -- | -- |
+| **S1**    | ML | H  | MH | M  | ML | H  | ML | M  |
+| **S2**    | EH | MH | M  | ML | ML | L  | L  | H  |
+| **S3**    | ML | M  | L  | ML | L  | L  | H  | MH |
+| **S4**    | MH | MH | M  | M  | ML | ML | L  | H  |
+| **S5**    | M  | ML | VH | ML | H  | M  | L  | MH |
+| **S6**    | MH | EH | M  | H  | ML | M  | L  | MH |
+| **W1**    | L  | ML | M  | ML | ML | M  | L  | MH |
+| **W2**    | MH | M  | L  | ML | L  | L  | ML | VH |
+| **W3**    | L  | ML | EH | M  | ML | M  | L  | MH |
+| **W4**    | ML | M  | L  | EH | L  | L  | ML | MH |
+| **W5**    | L  | ML | ML | ML | EH | L  | L  | H  |
+| **W6**    | L  | ML | M  | ML | L  | M  | L  | H  |
+| **O1**    | MH | VH | ML | ML | ML | ML | L  | H  |
+| **O2**    | M  | H  | M  | ML | H  | ML | L  | VH |
+| **O3**    | ML | H  | M  | EH | ML | ML | L  | H  |
+| **O4**    | ML | ML | L  | H  | ML | ML | L  | MH |
+| **O5**    | ML | ML | ML | H  | ML | ML | L  | MH |
+| **O6**    | ML | H  | ML | H  | ML | ML | L  | MH |
+| **T1**    | MH | M  | L  | ML | L  | L  | ML | VH |
+| **T2**    | ML | ML | L  | L  | L  | L  | EH | MH |
+| **T3**    | M  | ML | ML | L  | ML | ML | L  | MH |
+| **T4**    | EH | MH | M  | ML | L  | L  | L  | VH |
+| **T5**    | ML | ML | M  | ML | ML | EH | L  | MH |
+| **T6**    | L  | ML | EH | ML | ML | M  | L  | H  |
+
+---
+
+If you want, I can also:
+
+✅ Convert linguistic values into numerical scale
+✅ Perform AHP-SWOT weighting
+✅ Compute weighted aggregated scores for all alternatives
+✅ Determine the best policy response
+✅ Provide sensitivity analysis
+
+Just let me know!

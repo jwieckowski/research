@@ -1,0 +1,102 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Here are the evaluations for the subfactors and alternatives using a 9-point linguistic scale (from Extremely Low to Extremely High). These judgments reflect typical expert assessments in the Ghanaian renewable energy context, and can serve as a starting point for Multi-Criteria Decision Analysis.
+
+### Subfactor Weights Table
+
+| Subfactor | Linguistic | Numeric |
+|-----------|------------|---------|
+| S1        | EH         | 9       |
+| S2        | VH         | 8       |
+| S3        | H          | 7       |
+| S4        | H          | 7       |
+| S5        | MH         | 6       |
+| S6        | M          | 5       |
+| W1        | H          | 7       |
+| W2        | H          | 7       |
+| W3        | MH         | 6       |
+| W4        | VH         | 8       |
+| W5        | H          | 7       |
+| W6        | MH         | 6       |
+| O1        | VH         | 8       |
+| O2        | EH         | 9       |
+| O3        | H          | 7       |
+| O4        | M          | 5       |
+| O5        | VH         | 8       |
+| O6        | H          | 7       |
+| T1        | H          | 7       |
+| T2        | VH         | 8       |
+| T3        | M          | 5       |
+| T4        | VH         | 8       |
+| T5        | H          | 7       |
+| T6        | MH         | 6       |
+
+### Alternatives Evaluation Matrix
+
+| Alt | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| A1  | EH | EH | MH | H  | M  | MH | L  | VL | ML | L  | ML | ML | MH | M  | MH | ML | MH | M  | L  | L  | L  | L  | L  | L  |
+| A2  | VH | VH | MH | MH | MH | H  | L  | L  | ML | ML | L  | L  | EH | EH | H  | H  | EH | H  | VL | VL | L  | L  | VL | L  |
+| A3  | M  | M  | M  | MH | EH | M  | M  | ML | L  | ML | M  | M  | MH | MH | H  | M  | MH | MH | ML | ML | M  | ML | ML | M  |
+| A4  | MH | MH | H  | EH | MH | MH | H  | MH | MH | M  | MH | MH | M  | M  | EH | H  | MH | H  | M  | M  | M  | M  | M  | M  |
+| A5  | M  | M  | M  | M  | MH | M  | MH | MH | M  | M  | H  | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  |
+| A6  | M  | M  | M  | M  | M  | M  | H  | H  | MH | MH | H  | H  | H  | H  | H  | H  | H  | H  | M  | M  | M  | M  | M  | M  |
+| A7  | MH | M  | EH | MH | M  | MH | MH | M  | M  | MH | MH | MH | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  | M  |
+| A8  | H  | H  | H  | H  | MH | H  | H  | MH | MH | MH | H  | H  | MH | MH | MH | MH | MH | MH | M  | M  | M  | M  | M  | M  |
+
+These tables can be used as inputs for further MCDA techniques, such as weighted sum models or PROMETHEE, to prioritize policy alternatives based on their strengths, weaknesses, opportunities, and threats in the Ghanaian renewable energy sector.

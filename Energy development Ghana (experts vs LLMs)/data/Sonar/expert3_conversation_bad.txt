@@ -1,0 +1,111 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Here is a comprehensive evaluation of the subfactors within each SWOT factor and the assessment of alternatives regarding all subfactors, using a 9-point linguistic scale (EL: Extremely Low, VL: Very Low, L: Low, ML: Medium Low, M: Medium, MH: Medium High, H: High, VH: Very High, EH: Extremely High).
+
+### Subfactor Evaluation within Each SWOT Factor
+
+| Strengths                                  | Evaluation |
+|---------------------------------------------|------------|
+| Geographical location (S1)                  | H  |
+| Political stability (S2)                    | MH  |
+| Rich land resource (S3)                     | H  |
+| Availability of renewable energy act and incentives (S4) | M  |
+| Existence of research institutions (S5)   | MH  |
+| Market is open to private investment (S6)   | MH  |
+
+| Weaknesses                                     | Evaluation |
+|-------------------------------------------------|------------|
+| Less attention on off grid renewable energy systems (W1) | H  |
+| Bureaucratic licensing processes (W2)           | VH  |
+| Lack of commercialization of scientific research (W3) | H  |
+| High initial cost of renewable energy projects (W4) | EH  |
+| Lack of public awareness (W5)                  | VH  |
+| Poor grid system (W6)                          | H  |
+
+| Opportunities                                         | Evaluation |
+|-------------------------------------------------------|------------|
+| Regional integration (O1)                             | MH  |
+| Increasing global awareness of climate change (O2)    | EH  |
+| Availability of funding sources (O3)                  | H  |
+| Reduction of pressure on national budget (O4)         | H  |
+| Increasing electricity demand (O5)                    | MH  |
+| Decreasing prices of renewable energy and equipment (O6) | H  |
+
+| Threats                                                 | Evaluation |
+|---------------------------------------------------------|------------|
+| Unequal playing field (T1)                              | VH  |
+| Land tenure system (T2)                                 | H  |
+| Changing climate conditions (T3)                        | MH  |
+| Discontinuity in energy policies (T4)                   | H  |
+| Insufficient and unreliable renewable energy resource data (T5) | H  |
+| Insufficient research and development (T6)              | MH  |
+
+### Alternative Evaluation Matrix
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| A1          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A2          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A3          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A4          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A5          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A6          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A7          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+| A8          | VL | EL | M  | ML | ML | L  | VL | EH | VL | H  | ML | EH | ML | EH | EL | EH | ML | EH | ML | EH | H  | ML | VH | M  |
+
+This table provides a structured basis for prioritizing policy responses to Ghana's renewable energy sector development challenges, with all subfactors and alternatives evaluated linguistically as per the requested approach .

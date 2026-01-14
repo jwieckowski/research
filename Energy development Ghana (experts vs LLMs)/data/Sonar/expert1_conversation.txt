@@ -1,0 +1,102 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Here is the evaluation of the Ghanaian renewable energy sector policy alternatives using the Multi-Criteria Decision Analysis approach, based on SWOT factors and subfactors. The ratings are provided in a 9-point linguistic scale (Extremely Low (EL) to Extremely High (EH)) for both subfactor importance and alternative impact.
+
+### Subfactor Evaluations by SWOT Factor
+
+| SWOT Factor        | Subfactor                                                       | Evaluation |
+|--------------------|-----------------------------------------------------------------|------------|
+| Strengths          | Geographical location (S1)                                      | ML         |
+|                    | Political stability (S2)                                        | VH         |
+|                    | Rich land resource (S3)                                         | VH         |
+|                    | Availability of renewable energy act and incentives (S4)        | MH         |
+|                    | Existence of research institutions (S5)                         | VL         |
+|                    | The market is open to private investment (S6)                     | L          |
+| Weaknesses         | Less attention on off grid renewable energy systems (W1)        | L          |
+|                    | Bureaucratic licensing processes (W2)                           | EH         |
+|                    | Lack of commercialization of scientific research (W3)           | VL         |
+|                    | High initial cost of renewable energy projects (W4)             | MH         |
+|                    | Lack of public awareness (W5)                                   | EH         |
+|                    | Poor grid system (W6)                                           | M          |
+| Opportunities      | Regional integration (O1)                                       | EL         |
+|                    | Increasing global awareness of climate change (O2)              | L          |
+|                    | Availability of funding sources (O3)                            | MH         |
+|                    | Reduction of pressure on national budget (O4)                   | MH         |
+|                    | Increasing electricity demand (O5)                              | EL         |
+|                    | Decreasing prices of renewable energy and equipment (O6)        | EH         |
+| Threats            | Unequal playing field (T1)                                      | VL         |
+|                    | Land tenure system (T2)                                         | VL         |
+|                    | Changing climate conditions (T3)                                | EL         |
+|                    | Discontinuity in energy policies (T4)                           | ML         |
+|                    | Insufficient and unreliable renewable energy resource data (T5) | EH         |
+|                    | Insufficient research and development (T6)                      | EH         |
+
+### Alternative Policy Evaluations Across All Subfactors
+
+| Alternative                                              | S1  | S2  | S3  | S4  | S5  | S6  | W1  | W2  | W3  | W4  | W5  | W6  | O1  | O2  | O3  | O4  | O5  | O6  | T1  | T2  | T3  | T4  | T5  | T6  |
+|----------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Strengthen political regime (A1)                         | MH  | M   | VH  | ML  | ML  | ML  | MH  | VL  | MH  | M   | VL  | M   | EL  | ML  | L   | ML  | EH  | EL  | EL  | H   | H   | H   | H   | M   |
+| Foster Foreign cooperation (A2)                          | EL  | VH  | EH  | MH  | ML  | L   | H   | VH  | M   | EH  | MH  | L   | L   | M   | ML  | EH  | EH  | M   | H   | MH  | VL  | ML  | MH  | MH  |
+| Increase research and development (A3)                   | ML  | H   | VL  | EL  | VH  | VH  | EH  | ML  | M   | M   | ML  | EL  | VH  | VL  | EL  | EH  | ML  | ML  | MH  | VH  | H   | H   | EH  | ML  |
+| Financing support (A4)                                   | ML  | EH  | MH  | L   | EL  | L   | M   | H   | H   | ML  | EL  | ML  | L   | L   | EL  | EH  | EH  | H   | ML  | EH  | EH  | MH  | L   | ML  |
+| Increase education (A5)                                  | VH  | EH  | EH  | ML  | VL  | EL  | VL  | VH  | M   | VH  | MH  | L   | L   | VL  | H   | L   | L   | EH  | VL  | EH  | EH  | VH  | ML  | VH  |
+| Data collection (A6)                                     | ML  | VL  | M   | EH  | EL  | EL  | M   | L   | M   | MH  | EL  | EL  | ML  | M   | EL  | ML  | EH  | EL  | EH  | L   | ML  | EL  | VH  | VH  |
+| Government intervention on lands (A7)                    | MH  | H   | ML  | VL  | M   | M   | EH  | EL  | ML  | MH  | VL  | VH  | ML  | H   | H   | L   | M   | EH  | EL  | EH  | L   | EH  | MH  | ML  |
+| National consensus (A8)                                  | L   | VH  | EL  | ML  | VH  | MH  | VL  | ML  | M   | EL  | L   | MH  | L   | EH  | ML  | EL  | ML  | MH  | M   | H   | ML  | M   | ML  | L   |
+
+This matrix can be further used in a Multi-Criteria Decision Analysis (MCDA) framework, such as weighted sum or TOPSIS, by assigning numerical values to the linguistic terms and weighting the subfactors based on expert opinion or stakeholder input. The provided evaluations represent a structured expert assessment tailored to the Ghanaian context and the renewable energy sector's challenges and opportunities.

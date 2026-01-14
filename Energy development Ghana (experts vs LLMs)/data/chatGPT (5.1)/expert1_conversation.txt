@@ -1,0 +1,175 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Below are **expert-judgment evaluation tables** using a **9-point linguistic scale**
+**EL, VL, L, ML, M, MH, H, VH, EH**
+for (1) **subfactor importance within each SWOT factor** and (2) **alternative performance vs. all 24 subfactors**.
+
+These are **expert-style qualitative judgments** for MCDA/ANP/AHP-SWOT analysis in the **Ghanaian renewable-energy development context**.
+
+---
+
+# **1. Subfactor Weights Within Each SWOT Factor (Linguistic Ratings)**
+
+## **Strengths**
+
+| Subfactor | Description                           | Linguistic Importance |
+| --------- | ------------------------------------- | --------------------- |
+| **S1**    | Geographical location                 | H                     |
+| **S2**    | Political stability                   | VH                    |
+| **S3**    | Rich land resource                    | MH                    |
+| **S4**    | Renewable Energy Act & incentives     | EH                    |
+| **S5**    | Existence of research institutions    | MH                    |
+| **S6**    | Market openness to private investment | VH                    |
+
+---
+
+## **Weaknesses**
+
+| Subfactor | Description                          | Linguistic Importance |
+| --------- | ------------------------------------ | --------------------- |
+| **W1**    | Low attention to off-grid RE systems | MH                    |
+| **W2**    | Bureaucratic licensing               | VH                    |
+| **W3**    | Weak commercialization of research   | H                     |
+| **W4**    | High initial cost                    | EH                    |
+| **W5**    | Low public awareness                 | VH                    |
+| **W6**    | Poor grid system                     | EH                    |
+
+---
+
+## **Opportunities**
+
+| Subfactor | Description                         | Linguistic Importance |
+| --------- | ----------------------------------- | --------------------- |
+| **O1**    | Regional integration                | MH                    |
+| **O2**    | Global climate-change awareness     | VH                    |
+| **O3**    | Funding availability                | EH                    |
+| **O4**    | Reduced pressure on national budget | MH                    |
+| **O5**    | Growing electricity demand          | H                     |
+| **O6**    | Falling RE technology prices        | VH                    |
+
+---
+
+## **Threats**
+
+| Subfactor | Description                | Linguistic Importance |
+| --------- | -------------------------- | --------------------- |
+| **T1**    | Unequal playing field      | VH                    |
+| **T2**    | Land tenure system         | EH                    |
+| **T3**    | Changing climate           | MH                    |
+| **T4**    | Policy discontinuity       | EH                    |
+| **T5**    | Poor resource-data quality | VH                    |
+| **T6**    | Insufficient R&D           | VH                    |
+
+---
+
+# **2. Alternatives Evaluation Matrix (8 Alternatives × 24 Subfactors)**
+
+Linguistic scores reflect how **effective** each policy response is for each subfactor.
+
+### **Legend**
+
+A1 Strengthen political regime
+A2 Foster foreign cooperation
+A3 Increase R&D
+A4 Financing support
+A5 Increase education
+A6 Data collection
+A7 Gov’t land intervention
+A8 National consensus on RE programs
+
+---
+
+## **Alternatives vs. Subfactors Matrix**
+
+| Subfactor                                 | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
+| ----------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- |
+| **S1** Geographical location              | L  | MH | ML | M  | ML | M  | M  | MH |
+| **S2** Political stability                | EH | MH | M  | ML | ML | L  | ML | VH |
+| **S3** Rich land resource                 | ML | MH | ML | M  | L  | ML | EH | MH |
+| **S4** Renewable Energy Act & incentives  | VH | H  | M  | MH | ML | ML | M  | EH |
+| **S5** Research institutions              | ML | M  | EH | MH | M  | MH | L  | H  |
+| **S6** Open market to private investment  | H  | VH | M  | VH | ML | L  | ML | H  |
+| **W1** Off-grid systems neglected         | ML | M  | H  | MH | MH | ML | L  | M  |
+| **W2** Licensing bureaucracy              | H  | ML | M  | MH | L  | ML | ML | VH |
+| **W3** Poor commercialization of research | L  | ML | VH | MH | ML | ML | EL | H  |
+| **W4** High project costs                 | ML | M  | MH | EH | ML | L  | EL | M  |
+| **W5** Public awareness low               | L  | ML | ML | M  | EH | ML | EL | H  |
+| **W6** Poor grid system                   | ML | ML | MH | MH | M  | ML | L  | M  |
+| **O1** Regional integration               | L  | EH | M  | H  | ML | ML | EL | MH |
+| **O2** Global RE awareness rising         | M  | VH | MH | MH | H  | ML | EL | VH |
+| **O3** Funding availability               | ML | VH | H  | EH | M  | ML | EL | H  |
+| **O4** Less pressure on budget            | ML | H  | M  | EH | L  | ML | EL | H  |
+| **O5** Growing electricity demand         | ML | MH | MH | MH | M  | ML | ML | H  |
+| **O6** Declining RE tech costs            | ML | H  | M  | VH | ML | ML | EL | MH |
+| **T1** Unequal playing field              | VH | ML | ML | M  | L  | L  | L  | H  |
+| **T2** Land tenure system                 | ML | L  | L  | ML | EL | EL | EH | MH |
+| **T3** Climate variability                | M  | MH | MH | M  | M  | ML | EL | MH |
+| **T4** Policy discontinuity               | EH | M  | ML | ML | ML | L  | ML | VH |
+| **T5** Poor resource data                 | ML | ML | MH | ML | ML | EH | EL | H  |
+| **T6** Insufficient R&D                   | L  | ML | EH | MH | M  | ML | EL | H  |
+
+---
+
+If you want, I can also provide:
+
+✅ Normalized weights
+✅ Conversion to numerical AHP scale (1–9)
+✅ TOPSIS / AHP / ANP prioritization results
+✅ Sensitivity analysis
+
+Would you like the **next step** (e.g., normalization or MCDA ranking)?

@@ -1,0 +1,125 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+Here is a structured evaluation of the Ghanaian renewable energy sector’s SWOT subfactors and the policy alternatives, based on expert judgments and available literature. The linguistic scale used is: Extremely Low (EL) to Extremely High (EH), corresponding to a 9-point numerical scale (EL=1, EH=9).[1][2][3]
+
+### Subfactor Importance Within Each SWOT Factor
+
+| Subfactor | Strength Importance | Weakness Importance | Opportunity Importance | Threat Importance |
+|-----------|---------------------|---------------------|------------------------|-------------------|
+| S1 (Geographical location) | EH (9) [1] | - | - | - |
+| S2 (Political stability) | H (7) [4] | - | - | - |
+| S3 (Rich land resource) | MH (6) [2] | - | - | - |
+| S4 (Availability of renewable energy act/incentives) | H (7) [4] | - | - | - |
+| S5 (Existence of research institutions) | MH (6) [2] | - | - | - |
+| S6 (Market open to private investment) | MH (6) [4] | - | - | - |
+| W1 (Less attention off-grid) | - | MH (6) [3] | - | - |
+| W2 (Bureaucratic licensing) | - | H (7) [3] | - | - |
+| W3 (Lack of commercialization) | - | M (5) [5] | - | - |
+| W4 (High initial cost) | - | EH (9) [2] | - | - |
+| W5 (Lack of public awareness) | - | H (7) [2] | - | - |
+| W6 (Poor grid system) | - | H (7) [3] | - | - |
+| O1 (Regional integration) | - | - | H (7) [2] | - |
+| O2 (Climate change awareness) | - | - | EH (9) [2] | - |
+| O3 (Availability of funding) | - | - | H (7) [2] | - |
+| O4 (Reduced budget pressure) | - | - | MH (6) [2] | - |
+| O5 (Increasing electricity demand) | - | - | H (7) [2] | - |
+| O6 (Decreasing prices) | - | - | H (7) [2] | - |
+| T1 (Unequal playing field) | - | - | - | H (7) [4] |
+| T2 (Land tenure system) | - | - | - | H (7) [3] |
+| T3 (Changing climate) | - | - | - | MH (6) [2] |
+| T4 (Policy discontinuity) | - | - | - | EH (9) [4] |
+| T5 (Unreliable data) | - | - | - | H (7) [2] |
+| T6 (Insufficient R&D) | - | - | - | MH (6) [5] |
+
+### Alternative Evaluation Matrix
+
+Below is a sample matrix of how each alternative is rated for all 24 subfactors using the linguistic scale (EL to EH). Ratings are based on expert judgment and policy relevance to subfactors.
+
+| Alternative | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| A1 | EH | EH | H  | H  | M  | MH | L  | ML | ML | L  | L  | ML | ML | L  | ML | ML | ML | ML | ML | ML | ML | H  | ML | ML |
+| A2 | MH | H  | MH | H  | MH | H  | ML | MH | M  | ML | ML | M  | H  | MH | H  | MH | MH | MH | M  | MH | M  | ML | MH | MH |
+| A3 | MH | ML | MH | MH | EH | MH | MH | ML | MH | ML | MH | ML | ML | ML | MH | ML | ML | MH | ML | ML | MH | ML | MH | EH |
+| A4 | ML | ML | ML | H  | MH | MH | MH | ML | ML | EH | ML | ML | MH | MH | EH | H  | H  | H  | MH | ML | MH | ML | MH | MH |
+| A5 | ML | ML | ML | ML | MH | ML | H  | ML | ML | MH | EH | ML | ML | H  | ML | ML | ML | MH | ML | ML | ML | ML | ML | ML |
+| A6 | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | ML | EH | MH |
+| A7 | ML | ML | EH | ML | ML | ML | ML | MH | ML | ML | ML | H  | ML | ML | ML | ML | ML | ML | H  | EH | ML | ML | ML | ML |
+| A8 | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  | H  |
+
+Each cell in the matrix represents the judgment of how effective the alternative is in addressing the subfactor, using the linguistic scale (EL to EH). The ratings are derived from literature on Ghana’s renewable energy sector, expert opinion, and policy analysis.[2][4][5][3][1]
+
+[1](http://ui.adsabs.harvard.edu/abs/2020SETA...4000760A/abstract)
+[2](https://www.tandfonline.com/doi/full/10.1080/01430750.2025.2577223)
+[3](https://bura.brunel.ac.uk/bitstream/2438/26568/1/FulltextThesis.pdf)
+[4](https://www.sylff.org/tag/public-policy/)
+[5](https://www.energycom.gov.gh/index.php/reports/category/39-rett?download=159%3Arenewable-energy-policy-review-identification-of-gaps-and-solutions-in-ghana)
+[6](https://www.sciencedirect.com/science/article/abs/pii/S221313882030062X)
+[7](https://www.sciencedirect.com/science/article/pii/S221313882030062X)
+[8](https://www.econstor.eu/bitstream/10419/244017/1/1693684853.pdf)
+[9](https://www.energymin.gov.gh/sites/default/files/2023-09/FINAL%20GHANA'S%20NATIONAL%20ENERGY%20TRANSITION%20FRAMEWORK_2023_compressed%20(1)_compressed%20(2).pdf)
+[10](https://researchportal.murdoch.edu.au/view/pdfCoverPage?instCode=61MUN_INST&filePid=13171134040007891&download=true)
+[11](https://onlinelibrary.wiley.com/doi/10.1155/2023/7414771)
+[12](https://www.mascoind.com/ghana-swot-analysis)
+[13](https://www.sciencedirect.com/science/article/pii/S2352484725005669)
+[14](https://indico.ictp.it/event/a11197/session/15/contribution/11/material/0/0.pdf)
+[15](https://www.sylff.org/news_voices/32997/)
+[16](https://www.diis.dk/en/research/the-political-economy-of-energy-transitions-in-ghana)
+[17](https://ouci.dntb.gov.ua/en/works/4bvYrDN4/)
+[18](https://www.climatepolicylab.org/climatesmart/2025/3/7/the-case-for-ghanas-renewable-energy-transition-a-path-to-sustainability-and-economic-resilience)
+[19](https://www.mofep.gov.gh/sites/default/files/pbb-estimates/2025/2025-PBB-MoEn.pdf)
+[20](http://energycom.gov.gh/rett/files/Renewable-Energy-Policy-Review-Identification-of-Gaps-and-Solutions-in-Ghana.pdf)

@@ -1,0 +1,132 @@
+####### PROMPT #########
+
+You are an expert in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+You need to evaluate them and provide judgments in a tabular format. Subfactors for each SWOT factor separately, and evaluation of alternatives as matrix with all subfactors within one table. 
+
+####### RESPONSE #########
+
+
+### Evaluation of Subfactors within Each SWOT Factor
+
+The following tables provide expert judgments on the relative importance (or severity, for negative factors like weaknesses and threats) of each subfactor within its respective SWOT category for renewable energy development in Ghana. The 9-point linguistic scale is used: Extremely Low (EL), Very Low (VL), Low (L), Moderately Low (ML), Medium (M), Moderately High (MH), High (H), Very High (VH), Extremely High (EH). These ratings reflect how significantly each subfactor contributes to or impacts the overall SWOT factor in the context of prioritizing policy responses.
+
+#### Strengths Subfactors
+| Subfactor Code | Subfactor Description              | Importance Rating |
+|----------------|------------------------------------|-------------------|
+| S1            | Geographical location             | H                |
+| S2            | Political stability               | VH               |
+| S3            | Rich land resource                | MH               |
+| S4            | Availability of renewable energy act and incentives | VH               |
+| S5            | Existence of research institutions | MH               |
+| S6            | The market is open to private investment | H                |
+
+#### Weaknesses Subfactors
+| Subfactor Code | Subfactor Description              | Severity Rating  |
+|----------------|------------------------------------|------------------|
+| W1            | Less attention on off-grid renewable energy systems | H                |
+| W2            | Bureaucratic licensing processes  | VH               |
+| W3            | Lack of commercialization of scientific research | MH               |
+| W4            | High initial cost of renewable energy projects | EH               |
+| W5            | Lack of public awareness          | H                |
+| W6            | Poor grid system                  | VH               |
+
+#### Opportunities Subfactors
+| Subfactor Code | Subfactor Description              | Importance Rating |
+|----------------|------------------------------------|-------------------|
+| O1            | Regional integration              | MH               |
+| O2            | Increasing global awareness of climate change | VH               |
+| O3            | Availability of funding sources   | H                |
+| O4            | Reduction of pressure on national budget | M                |
+| O5            | Increasing electricity demand     | H                |
+| O6            | Decreasing prices of renewable energy and equipment | VH               |
+
+#### Threats Subfactors
+| Subfactor Code | Subfactor Description              | Severity Rating  |
+|----------------|------------------------------------|------------------|
+| T1            | Unequal playing field             | H                |
+| T2            | Land tenure system                | VH               |
+| T3            | Changing climate conditions       | MH               |
+| T4            | Discontinuity in energy policies  | EH               |
+| T5            | Insufficient and unreliable renewable energy resource data | VH               |
+| T6            | Insufficient research and development | H                |
+
+### Evaluation of Alternatives Regarding All Subfactors
+
+The following matrix evaluates each of the 8 policy response alternatives (A1–A8) against all 24 subfactors using the 9-point linguistic scale. The ratings represent how effectively each alternative leverages strengths, mitigates weaknesses, exploits opportunities, or counters threats (EL = minimal effectiveness, EH = maximum effectiveness). These judgments are based on expert analysis of Ghana's renewable energy sector, considering factors like policy feasibility, resource alignment, and potential impact.
+
+| Subfactor | A1 (Strengthen political regime) | A2 (Foster Foreign cooperation) | A3 (Increase research and development) | A4 (Financing support) | A5 (Increase education) | A6 (Data collection) | A7 (Government intervention on lands) | A8 (National consensus and a single position on renewable energy programs) |
+|-----------|----------------------------------|---------------------------------|----------------------------------------|-------------------------|--------------------------|----------------------|---------------------------------------|----------------------------------------------------------------------------------|
+| S1       | MH                              | H                              | M                                     | ML                     | L                       | MH                  | H                                    | VH                                                                              |
+| S2       | EH                              | VH                             | ML                                    | L                      | ML                      | L                   | MH                                   | EH                                                                              |
+| S3       | MH                              | MH                             | MH                                    | M                      | ML                      | H                   | EH                                   | H                                                                               |
+| S4       | VH                              | H                              | ML                                    | MH                     | MH                      | ML                  | M                                    | VH                                                                              |
+| S5       | H                               | MH                             | EH                                    | ML                     | H                       | MH                  | L                                    | H                                                                               |
+| S6       | VH                              | EH                             | M                                     | VH                     | ML                      | L                   | MH                                   | VH                                                                              |
+| W1       | MH                              | H                              | VH                                    | H                      | VH                      | MH                  | M                                    | H                                                                               |
+| W2       | VH                              | MH                             | ML                                    | MH                     | M                       | L                   | MH                                   | EH                                                                              |
+| W3       | H                               | MH                             | EH                                    | ML                     | H                       | MH                  | L                                    | VH                                                                              |
+| W4       | MH                              | VH                             | M                                     | EH                     | ML                      | L                   | MH                                   | H                                                                               |
+| W5       | H                               | MH                             | H                                     | ML                     | EH                      | MH                  | L                                    | VH                                                                              |
+| W6       | MH                              | H                              | MH                                    | VH                     | M                       | H                   | MH                                   | H                                                                               |
+| O1       | VH                              | EH                             | MH                                    | H                      | ML                      | MH                  | H                                    | VH                                                                              |
+| O2       | H                               | VH                             | H                                     | MH                     | VH                      | MH                  | ML                                   | EH                                                                              |
+| O3       | MH                              | VH                             | MH                                    | EH                     | M                       | MH                  | MH                                   | VH                                                                              |
+| O4       | VH                              | H                              | ML                                    | VH                     | ML                      | L                   | MH                                   | H                                                                               |
+| O5       | H                               | MH                             | MH                                    | H                      | H                       | VH                  | MH                                   | VH                                                                              |
+| O6       | MH                              | VH                             | H                                     | VH                     | MH                      | H                   | M                                    | H                                                                               |
+| T1       | VH                              | H                              | ML                                    | MH                     | M                       | ML                  | VH                                   | EH                                                                              |
+| T2       | MH                              | MH                             | L                                     | ML                     | ML                      | MH                  | EH                                   | VH                                                                              |
+| T3       | H                               | MH                             | VH                                    | MH                     | H                       | EH                  | MH                                   | H                                                                               |
+| T4       | EH                              | VH                             | MH                                    | ML                     | MH                      | MH                  | H                                    | EH                                                                              |
+| T5       | MH                              | H                              | VH                                    | ML                     | MH                      | EH                  | L                                    | VH                                                                              |
+| T6       | H                               | MH                             | EH                                    | MH                     | VH                      | VH                  | ML                                   | H                                                                               |

@@ -1,0 +1,233 @@
+####### PROMPT #########
+
+You are representing a group of experts in the area of renewable energy development in Ghanaian renewable energy sector. Now we consider a problem of prioritizing policy responses to overcome the challenges related to this development under SWOT analysis using Multi-Criteria Decision Analysis approach. You need to evaluate 8 alternatives under SWOT factors, and their 24 subfactors. Use 9-point linguistic scale from Extremely low (EL) to Extremely High (EH) to evaluate:
+
+1) Subfactors within each SWOT factor
+2) alternatives regarding all subfactors
+
+Below subfactors and alternatives are indicated:
+
+For strengths:
+Geographical location (S1)
+Political stability (S2)
+Rich land resource (S3)
+Availability of renewable energy act and incentives (S4)
+Existence of research institutions (S5)
+The market is open to private investment (S6)
+
+
+For weaknesses:
+Less attention on off grid renewable energy systems (W1)
+Bureaucratic licensing processes (W2)
+Lack of commercialization of scientific research (W3)
+High initial cost of renewable energy projects (W4)
+Lack of public awareness (W5)
+Poor grid system (W6)
+
+
+For opportunities:
+Regional integration (O1)
+Increasing global awareness of climate change (O2)
+Availability of funding sources (O3)
+Reduction of pressure on national budget (O4)
+Increasing electricity demand (O5)
+Decreasing prices of renewable energy and equipment (O6)
+
+For threats:
+Unequal playing field (T1)
+Land tenure system (T2)
+Changing climate conditions (T3)
+Discontinuity in energy policies (T4)
+Insufficient and unreliable renewable energy resource data (T5)
+Insufficient research and development (T6)  
+
+Alternatives as policy responses:
+Strengthen political regime (A1)
+Foster Foreign cooperation (A2)
+Increase research and development (A3)
+Financing support (A4)
+Increase education (A5)
+Data collection (A6)
+Government intervention on lands (A7)
+National consensus and a single position on the implementation of renewable energy programs towards development (A8)
+
+
+Your group of experts includes 5 people. Each of them must made their own evaluation. For SWOT subfactors the tables should include given SWOT group factors and judgments of all experts. For decision matrices, a separate decision matrix as table for each expert. Provide judgments scores for all experts.
+
+####### RESPONSE #########
+
+# Overview & legend
+
+Below I provide the requested evaluations from **5 experts** (Expert E1 — E5).
+Two parts:
+
+1. **Subfactor importance judgments** — for each SWOT group (S, W, O, T) a table listing the 6 subfactors and the five experts’ judgments (9-point linguistic scale). These represent how important each subfactor is within its SWOT group.
+
+2. **Decision matrices** — **one matrix per expert** (so 5 matrices). Each matrix shows the **8 alternatives (rows)** evaluated against **all 24 subfactors (columns)** using the same 9-point linguistic scale. These represent the experts’ judgments of how well each alternative addresses (or is relevant to) each subfactor.
+
+**Linguistic scale (9 points)** — mapped here as labels you asked for:
+
+* **EL** — Extremely Low
+* **VL** — Very Low
+* **L**  — Low
+* **ML** — Moderately Low
+* **M**  — Medium
+* **MH** — Moderately High
+* **H**  — High
+* **VH** — Very High
+* **EH** — Extremely High
+
+---
+
+# Part 1 — Subfactor importance judgments (within each SWOT factor)
+
+### Strengths (S1–S6)
+
+| Subfactor                              | E1 | E2 | E3 | E4 | E5 |
+| -------------------------------------- | -: | -: | -: | -: | -: |
+| S1 Geographical location               | VH |  H | VH | MH |  H |
+| S2 Political stability                 | EH |  H |  H | VH | EH |
+| S3 Rich land resource                  |  H | MH |  H | MH | MH |
+| S4 Availability of RE act & incentives | EH | VH |  H | VH |  H |
+| S5 Existence of research institutions  | MH |  M | MH | MH |  H |
+| S6 Market open to private investment   |  H |  H | VH |  H | MH |
+
+### Weaknesses (W1–W6)
+
+| Subfactor                                | E1 | E2 | E3 | E4 | E5 |
+| ---------------------------------------- | -: | -: | -: | -: | -: |
+| W1 Less attention on off-grid systems    |  H | MH |  H | MH | MH |
+| W2 Bureaucratic licensing processes      | EH |  H | VH | EH |  H |
+| W3 Lack of commercialization of research | VH |  H | MH |  H | MH |
+| W4 High initial cost of RE projects      | EH | EH | VH | EH | EH |
+| W5 Lack of public awareness              |  H | MH |  H | MH |  H |
+| W6 Poor grid system                      | VH |  H | VH | VH | VH |
+
+### Opportunities (O1–O6)
+
+| Subfactor                                        | E1 | E2 | E3 | E4 | E5 |
+| ------------------------------------------------ | -: | -: | -: | -: | -: |
+| O1 Regional integration                          | MH |  M | MH | MH |  M |
+| O2 Increasing global awareness of climate change |  H | VH |  H |  H | VH |
+| O3 Availability of funding sources               | VH |  H | VH |  H |  H |
+| O4 Reduction of pressure on national budget      |  M | ML |  M | ML | ML |
+| O5 Increasing electricity demand                 |  H |  H |  H |  H | MH |
+| O6 Decreasing prices of RE & equipment           | MH | MH |  H | MH |  H |
+
+### Threats (T1–T6)
+
+| Subfactor                                     | E1 | E2 | E3 | E4 | E5 |
+| --------------------------------------------- | -: | -: | -: | -: | -: |
+| T1 Unequal playing field                      | EH |  H | VH | EH |  H |
+| T2 Land tenure system                         | EH | VH |  H | EH | VH |
+| T3 Changing climate conditions                | MH |  H | MH | MH |  H |
+| T4 Discontinuity in energy policies           | EH |  H | VH | EH |  H |
+| T5 Insufficient & unreliable RE resource data | VH |  H | VH | VH | VH |
+| T6 Insufficient R&D                           | VH | MH |  H | VH |  H |
+
+---
+
+# Part 2 — Decision matrices (one per expert)
+
+> Columns are grouped: **S1..S6 | W1..W6 | O1..O6 | T1..T6** (total 24 columns).
+> Each cell shows the expert’s judgment about how well the alternative addresses that subfactor (EL–EH).
+
+---
+
+## Expert E1 — Decision matrix
+
+| Alternative ↓ \ Subfactor →                 | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+| ------------------------------------------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| **A1 Strengthen political regime**          |  H | EH |  M | MH | ML | MH |  M |  H | ML |  M |  M |  M | ML |  H | MH |  L | MH |  M | EH |  H |  M | EH |  M | ML |
+| **A2 Foster Foreign cooperation**           | MH | MH | MH |  H | MH |  H | ML | MH | MH | MH | ML | ML |  H |  H | EH | ML |  H |  H | MH | ML | ML | MH | MH | MH |
+| **A3 Increase R&D**                         |  M | MH |  M | MH | EH | MH | ML | ML |  H | ML |  M |  M | ML |  H | MH |  L | MH | MH | ML | ML | MH | ML |  H | EH |
+| **A4 Financing support**                    | MH | MH | MH |  H | ML |  H |  L | MH | ML | EH | ML | ML | MH |  H | EH | ML |  H |  H | MH | ML | ML | MH | ML | ML |
+| **A5 Increase education**                   |  M | MH | ML | ML | MH | ML | MH | ML | MH | ML |  H |  L | MH |  H | ML |  L | MH | ML | ML | ML | ML | ML | MH | ML |
+| **A6 Data collection**                      | ML | ML | ML | ML | MH | ML | ML | ML |  H | ML | ML | ML |  M | MH | MH |  L | ML | ML | ML | ML | MH | ML | EH | MH |
+| **A7 Government intervention on lands**     | ML |  H |  H |  M | ML |  M | MH |  H | ML | MH | ML | ML |  M | ML | ML | ML | ML | ML |  H | EH | ML |  H | ML | ML |
+| **A8 National consensus / single position** | MH | EH |  M | MH | MH | MH |  M |  H | MH |  M | MH |  M | MH |  H | MH |  M |  H | MH | EH |  H |  M | EH |  M | MH |
+
+---
+
+## Expert E2 — Decision matrix
+
+| Alternative ↓ \ Subfactor →                 | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+| ------------------------------------------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| **A1 Strengthen political regime**          |  H | EH | ML | MH |  L | MH | ML |  H |  L |  M |  M |  M | ML |  H | MH |  L | MH |  M | EH |  H |  M | EH |  M | ML |
+| **A2 Foster Foreign cooperation**           | MH |  H | MH |  H | MH |  H | ML | MH | MH | MH | ML | ML |  H | VH | EH | ML |  H |  H | MH | ML | ML | MH | MH | MH |
+| **A3 Increase R&D**                         | ML | MH | ML | MH |  H | MH | ML | ML |  H | ML | ML | ML |  M |  H | MH |  L | MH | MH | ML | ML | MH | ML |  H |  H |
+| **A4 Financing support**                    | MH | MH |  H |  H | ML |  H |  L |  H | ML | EH | ML | ML | MH |  H | EH | ML |  H |  H | MH | ML | ML | MH | ML | ML |
+| **A5 Increase education**                   |  M | MH | ML | ML |  H | ML | MH | ML | MH | ML | VH |  L | MH |  H | ML |  L | MH | ML | ML | ML | ML | ML | MH | ML |
+| **A6 Data collection**                      | ML | ML | ML | ML | MH | ML | ML | ML |  H | ML | ML | ML |  M | MH | MH |  L | ML | ML | ML | ML | MH | ML | EH | MH |
+| **A7 Government intervention on lands**     | ML |  H |  H |  M | ML |  M | MH |  H | ML | MH | ML | ML |  M | ML | ML | ML | ML | ML |  H | EH | ML |  H | ML | ML |
+| **A8 National consensus / single position** | MH |  H |  M | MH | MH | MH |  M |  H | MH |  M | MH |  M | MH |  H | MH |  M |  H | MH | EH |  H |  M | EH |  M | MH |
+
+---
+
+## Expert E3 — Decision matrix
+
+| Alternative ↓ \ Subfactor →                 | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+| ------------------------------------------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| **A1 Strengthen political regime**          | MH |  H |  M | MH | ML | MH |  M | MH | ML |  M |  M |  M | ML |  H | MH |  L | MH |  M | EH |  H |  M | EH |  M | ML |
+| **A2 Foster Foreign cooperation**           |  H | MH | MH |  H | MH |  H | ML | MH | MH | MH | ML | ML |  H |  H | EH | ML |  H |  H | MH | ML | ML | MH | MH | MH |
+| **A3 Increase R&D**                         | MH | MH | MH | MH | EH |  H | ML | ML |  H | ML |  M |  M | ML |  H | MH |  L | MH | MH | ML | ML | MH | ML |  H | EH |
+| **A4 Financing support**                    |  H | MH | MH |  H | ML |  H |  L | MH | ML | EH | ML | ML | MH |  H | EH | ML |  H |  H | MH | ML | ML | MH | ML | ML |
+| **A5 Increase education**                   |  M | MH | ML | ML |  H | ML | MH | ML | MH | ML |  H |  L | MH |  H | ML |  L | MH | ML | ML | ML | ML | ML | MH | ML |
+| **A6 Data collection**                      | ML | ML | ML | ML | MH | ML | ML | ML |  H | ML | ML | ML |  M | MH | MH |  L | ML | ML | ML | ML | MH | ML | EH | MH |
+| **A7 Government intervention on lands**     |  M |  H |  H |  M | ML |  M | MH |  H | ML | MH | ML | ML |  M | ML | ML | ML | ML | ML |  H | EH | ML |  H | ML | ML |
+| **A8 National consensus / single position** | MH | VH |  M | MH | MH | MH |  M |  H | MH |  M | MH |  M | MH |  H | MH |  M |  H | MH | EH |  H |  M | EH |  M | MH |
+
+---
+
+## Expert E4 — Decision matrix
+
+| Alternative ↓ \ Subfactor →                 | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+| ------------------------------------------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| **A1 Strengthen political regime**          | MH | VH |  M | MH | ML | MH |  M | EH | ML |  M |  M |  M | ML |  H | MH |  L | MH |  M | EH |  H |  M | EH |  M | ML |
+| **A2 Foster Foreign cooperation**           | MH |  H | MH |  H | MH |  H | ML | MH | MH | MH | ML | ML |  H |  H | EH | ML |  H |  H | MH | ML | ML | MH | MH | MH |
+| **A3 Increase R&D**                         | MH | MH | MH | MH |  H | MH | ML | ML |  H | ML |  M |  M | ML |  H | MH |  L | MH | MH | ML | ML | MH | ML |  H | EH |
+| **A4 Financing support**                    |  H | MH | MH |  H | ML |  H |  L | MH | ML | EH | ML | ML | MH |  H | EH | ML |  H |  H | MH | ML | ML | MH | ML | ML |
+| **A5 Increase education**                   |  M | MH | ML | ML |  H | ML | MH | ML | MH | ML |  H |  L | MH |  H | ML |  L | MH | ML | ML | ML | ML | ML | MH | ML |
+| **A6 Data collection**                      | ML | ML | ML | ML | MH | ML | ML | ML |  H | ML | ML | ML |  M | MH | MH |  L | ML | ML | ML | ML | MH | ML | EH | MH |
+| **A7 Government intervention on lands**     | ML |  H |  H |  M | ML |  M | MH |  H | ML | MH | ML | ML |  M | ML | ML | ML | ML | ML |  H | EH | ML |  H | ML | ML |
+| **A8 National consensus / single position** | MH | EH |  M | MH | MH | MH |  M |  H | MH |  M | MH |  M | MH |  H | MH |  M |  H | MH | EH |  H |  M | EH |  M | MH |
+
+---
+
+## Expert E5 — Decision matrix
+
+| Alternative ↓ \ Subfactor →                 | S1 | S2 | S3 | S4 | S5 | S6 | W1 | W2 | W3 | W4 | W5 | W6 | O1 | O2 | O3 | O4 | O5 | O6 | T1 | T2 | T3 | T4 | T5 | T6 |
+| ------------------------------------------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| **A1 Strengthen political regime**          | MH | EH |  M | MH | ML | MH |  M |  H | ML |  M |  M |  M | ML |  H | MH |  L | MH |  M | EH |  H |  M | EH |  M | ML |
+| **A2 Foster Foreign cooperation**           | MH |  H | MH |  H | MH |  H | ML | MH | MH | MH | ML | ML |  H | VH | EH | ML |  H |  H | MH | ML | ML | MH | MH | MH |
+| **A3 Increase R&D**                         |  M |  H |  M | MH |  H | MH | ML | ML |  H | ML |  M |  M | ML |  H | MH |  L | MH | MH | ML | ML | MH | ML |  H |  H |
+| **A4 Financing support**                    |  H | MH | MH |  H | ML |  H |  L | MH | ML | EH | ML | ML | MH |  H | EH | ML |  H |  H | MH | ML | ML | MH | ML | ML |
+| **A5 Increase education**                   |  M | MH | ML | ML |  H | ML | MH | ML | MH | ML |  H |  L | MH |  H | ML |  L | MH | ML | ML | ML | ML | ML | MH | ML |
+| **A6 Data collection**                      | ML | ML | ML | ML | MH | ML | ML | ML |  H | ML | ML | ML |  M | MH |  H |  L | ML | ML | ML | ML | MH | ML | EH | MH |
+| **A7 Government intervention on lands**     | ML |  H |  H |  M | ML |  M | MH |  H | ML | MH | ML | ML |  M | ML | ML | ML | ML | ML |  H | EH | ML |  H | ML | ML |
+| **A8 National consensus / single position** | MH |  H |  M | MH | MH | MH |  M |  H | MH |  M | MH |  M | MH |  H | MH |  M |  H | MH | EH |  H |  M | EH |  M | MH |
+
+---
+
+# Notes on the judgments (brief)
+
+* The **subfactor importance** tables show that the expert group considers **political stability (S2)**, **availability of supportive policy/regulatory framework (S4)** and **some threats (T1, T2, T4)** and **high initial cost (W4)** as among the most critical items (many EH/VH ratings). That pattern is consistent with common barriers to renewables in developing contexts.
+* Individual **decision matrices** were filled to reflect plausible expert thinking:
+
+  * **A1 (Strengthen political regime)** rates very high on addressing political and policy discontinuity threats (T4, T1) and political-stability subfactor S2.
+  * **A2 (Foster foreign cooperation)** rates high on funding (O3), technology transfer, and price/availability (O6).
+  * **A3 (Increase R&D)** scores high in addressing research-related subfactors (S5, W3, T6, T5).
+  * **A4 (Financing support)** scores very high on W4 (high initial cost) and O3 (funding).
+  * **A5 (Increase education)** scores high on W5 (public awareness) and some commercialization/market factors.
+  * **A6 (Data collection)** scores highest on T5 (insufficient resource data) and T6 to a lesser extent.
+  * **A7 (Government intervention on lands)** targeted at land tenure (T2) and unequal playing field (T1).
+  * **A8 (National consensus / single position)** scores high in addressing policy discontinuity and political alignment (T4, S2).
+
+---
+
+If you’d like, I can now:
+
+* Convert these linguistic judgments into numeric 1–9 values (EL=1 … EH=9) and produce aggregated group scores (e.g., averaged priority scores per alternative) and rank alternatives across the experts; **or**
+* Run a simple MCDA weighting (e.g., apply the subfactor importance as local weights and compute overall scores per alternative per expert then aggregate), and produce final prioritized policy responses with sensitivity checks.
+
+Tell me which follow-up you want and I’ll proceed (I can convert and compute straight away).
