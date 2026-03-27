@@ -1,0 +1,119 @@
+T0 - Strategic Goal: Minimize operational cost
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A2    | Cost-focused      | Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency, Maximize renewable energy usage |
+| A3    | Cost-focused      | Minimize operational cost, Optimize storage efficiency, Maximize demand satisfaction, Ensure grid stability, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A4    | Cost-focused      | Minimize operational cost, Reduce CO₂ emissions, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency, Maximize renewable energy usage |
+| A5    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency |
+| A6    | Eco-focused       | Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Minimize operational cost, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A9    | Balanced          | Minimize operational cost, Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+
+T1 - Strategic Goal: Maximize renewable energy usage
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Maximize renewable energy usage, Maximize demand satisfaction, Ensure grid stability, Reduce CO₂ emissions, Optimize storage efficiency |
+| A2    | Cost-focused      | Minimize operational cost, Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Reduce CO₂ emissions |
+| A3    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency |
+| A4    | Eco-focused       | Maximize renewable energy usage, Maximize demand satisfaction, Reduce CO₂ emissions, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A5    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Maximize demand satisfaction, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A6    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions, Optimize storage efficiency |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Optimize storage efficiency, Minimize operational cost, Reduce CO₂ emissions |
+| A9    | Balanced          | Maximize renewable energy usage, Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Reduce CO₂ emissions, Optimize storage efficiency |
+
+T2 – Strategic Goal: Ensure grid stability
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+| A2    | Cost-focused      | Minimize operational cost, Ensure grid stability, Optimize storage efficiency, Maximize demand satisfaction, Maximize renewable energy usage, Reduce CO₂ emissions |
+| A3    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A4    | Eco-focused       | Maximize renewable energy usage, Ensure grid stability, Reduce CO₂ emissions, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A5    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A6    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Minimize operational cost, Maximize renewable energy usage, Reduce CO₂ emissions |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions |
+| A9    | Balanced          | Ensure grid stability, Maximize renewable energy usage, Minimize operational cost, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Ensure grid stability, Minimize operational cost, Maximize renewable energy usage, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+
+T3 – Strategic Goal: Reduce CO₂ emissions
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Reduce CO₂ emissions, Maximize demand satisfaction, Ensure grid stability, Maximize renewable energy usage, Optimize storage efficiency |
+| A2    | Cost-focused      | Minimize operational cost, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Optimize storage efficiency |
+| A3    | Eco-focused       | Reduce CO₂ emissions, Maximize renewable energy usage, Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency |
+| A4    | Eco-focused       | Reduce CO₂ emissions, Maximize renewable energy usage, Maximize demand satisfaction, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A5    | Eco-focused       | Reduce CO₂ emissions, Maximize demand satisfaction, Maximize renewable energy usage, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A6    | Eco-focused       | Reduce CO₂ emissions, Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Minimize operational cost, Maximize renewable energy usage, Optimize storage efficiency |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Reduce CO₂ emissions, Minimize operational cost, Maximize renewable energy usage |
+| A9    | Balanced          | Reduce CO₂ emissions, Ensure grid stability, Maximize renewable energy usage, Minimize operational cost, Maximize demand satisfaction, Optimize storage efficiency |
+| A10   | Balanced          | Reduce CO₂ emissions, Maximize renewable energy usage, Ensure grid stability, Minimize operational cost, Maximize demand satisfaction, Optimize storage efficiency |
+
+T4 - Strategic Goal: Maximize demand satisfaction
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+| A2    | Cost-focused      | Minimize operational cost, Maximize demand satisfaction, Optimize storage efficiency, Ensure grid stability, Maximize renewable energy usage, Reduce CO₂ emissions |
+| A3    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Maximize demand satisfaction, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A4    | Eco-focused       | Maximize renewable energy usage, Maximize demand satisfaction, Reduce CO₂ emissions, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A5    | Stability-focused | Maximize demand satisfaction, Ensure grid stability, Minimize operational cost, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A6    | Stability-focused | Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency, Minimize operational cost, Maximize renewable energy usage, Reduce CO₂ emissions |
+| A7    | Stability-focused | Maximize demand satisfaction, Ensure grid stability, Minimize operational cost, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+| A8    | Stability-focused | Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency, Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions |
+| A9    | Balanced          | Maximize demand satisfaction, Maximize renewable energy usage, Ensure grid stability, Minimize operational cost, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Maximize demand satisfaction, Ensure grid stability, Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions, Optimize storage efficiency |
+
+T5 - Strategic Goal: Minimize operational cost
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A2    | Cost-focused      | Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency, Maximize renewable energy usage |
+| A3    | Cost-focused      | Minimize operational cost, Optimize storage efficiency, Maximize demand satisfaction, Ensure grid stability, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A4    | Cost-focused      | Minimize operational cost, Reduce CO₂ emissions, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency, Maximize renewable energy usage |
+| A5    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency |
+| A6    | Eco-focused       | Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Minimize operational cost, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A9    | Balanced          | Minimize operational cost, Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+
+T6 - Strategic Goal: Maximize renewable energy usage
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Maximize renewable energy usage, Maximize demand satisfaction, Ensure grid stability, Reduce CO₂ emissions, Optimize storage efficiency |
+| A2    | Cost-focused      | Minimize operational cost, Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Reduce CO₂ emissions |
+| A3    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Minimize operational cost, Maximize demand satisfaction, Ensure grid stability, Optimize storage efficiency |
+| A4    | Eco-focused       | Maximize renewable energy usage, Maximize demand satisfaction, Reduce CO₂ emissions, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A5    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Maximize demand satisfaction, Ensure grid stability, Minimize operational cost, Optimize storage efficiency |
+| A6    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions, Optimize storage efficiency |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Optimize storage efficiency, Minimize operational cost, Reduce CO₂ emissions |
+| A9    | Balanced          | Maximize renewable energy usage, Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Maximize renewable energy usage, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Reduce CO₂ emissions, Optimize storage efficiency |
+
+T7 - Strategic Goal: Ensure grid stability
+
+| Agent | Type              | Ranking                                                                                                                                                            |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A1    | Cost-focused      | Minimize operational cost, Ensure grid stability, Maximize demand satisfaction, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+| A2    | Cost-focused      | Minimize operational cost, Ensure grid stability, Optimize storage efficiency, Maximize demand satisfaction, Maximize renewable energy usage, Reduce CO₂ emissions |
+| A3    | Eco-focused       | Maximize renewable energy usage, Reduce CO₂ emissions, Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A4    | Eco-focused       | Maximize renewable energy usage, Ensure grid stability, Reduce CO₂ emissions, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency |
+| A5    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Optimize storage efficiency, Reduce CO₂ emissions, Maximize renewable energy usage |
+| A6    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Minimize operational cost, Maximize renewable energy usage, Reduce CO₂ emissions |
+| A7    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Minimize operational cost, Maximize renewable energy usage, Reduce CO₂ emissions, Optimize storage efficiency |
+| A8    | Stability-focused | Ensure grid stability, Maximize demand satisfaction, Optimize storage efficiency, Maximize renewable energy usage, Minimize operational cost, Reduce CO₂ emissions |
+| A9    | Balanced          | Ensure grid stability, Maximize renewable energy usage, Minimize operational cost, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |
+| A10   | Balanced          | Ensure grid stability, Minimize operational cost, Maximize renewable energy usage, Maximize demand satisfaction, Reduce CO₂ emissions, Optimize storage efficiency |

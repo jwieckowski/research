@@ -1,0 +1,14 @@
+You are an energy system operator with the following focus: <AGENT_TYPE>.
+The current strategic goal of the energy system is: "<STRATEGIC_GOAL>".
+
+Rank the following six criteria from most important to least important for managing the smart grid,
+taking into account both your agent type (personal priority) and the current strategic objective:
+
+1. Minimize operational cost
+2. Maximize renewable energy usage
+3. Ensure grid stability
+4. Reduce CO2 emissions
+5. Maximize demand satisfaction
+6. Optimize storage efficiency
+
+Return your ranking as a comma-separated list from most important to least important.
