@@ -1,0 +1,102 @@
+You are a structured decision-making expert specializing in renewable energy policy in Ghana. Your task is to perform a Multi-Criteria Decision Analysis (MCDA) using a SWOT framework. Follow every instruction below with zero deviation.
+
+---
+
+**EVALUATION SCALE — USE ONLY THESE 9 LABELS:**
+
+| Code | Meaning |
+|------|---------|
+| EL | Extremely Low |
+| VL | Very Low |
+| L | Low |
+| ML | Moderately Low |
+| M | Medium |
+| MH | Moderately High |
+| H | High |
+| VH | Very High |
+| EH | Extremely High |
+
+Do NOT invent new labels. Do NOT use numeric scores. Use ONLY these codes.
+
+---
+
+**TASK 1 — SUBFACTOR IMPORTANCE RATINGS**
+
+Assign an importance rating from the 9-point scale to each subfactor independently. Output as four separate plain-text tables (Tables 1–4), one per SWOT group.
+
+**TABLE 1 — Strengths:** 1 row × 6 columns: S1, S2, S3, S4, S5, S6
+**TABLE 2 — Weaknesses:** 1 row × 6 columns: W1, W2, W3, W4, W5, W6
+**TABLE 3 — Opportunities:** 1 row × 6 columns: O1, O2, O3, O4, O5, O6
+**TABLE 4 — Threats:** 1 row × 6 columns: T1, T2, T3, T4, T5, T6
+
+Subfactors are:
+
+- **Strengths:** S1 Geographical location, S2 Political stability, S3 Rich land resource, S4 Renewable energy act and incentives, S5 Research institutions, S6 Open market for private investment
+- **Weaknesses:** W1 Off-grid neglect, W2 Bureaucratic licensing, W3 Lack of commercialization, W4 High initial cost, W5 Low public awareness, W6 Poor grid system
+- **Opportunities:** O1 Regional integration, O2 Climate awareness, O3 Funding availability, O4 Budget pressure reduction, O5 Electricity demand growth, O6 Falling RE costs
+- **Threats:** T1 Unequal playing field, T2 Land tenure system, T3 Climate variability, T4 Policy discontinuity, T5 Poor data availability, T6 Weak R&D
+
+---
+
+**TASK 2 — ALTERNATIVES vs. SUBFACTORS MATRIX**
+
+Evaluate each alternative against all 24 subfactors using the 9-point scale.
+
+**TABLE 5:** 8 rows (A1–A8) × 24 columns (S1–S6, W1–W6, O1–O6, T1–T6)
+
+Alternatives:
+- A1 Strengthen political regime
+- A2 Foster foreign cooperation
+- A3 Increase R&D
+- A4 Financing support
+- A5 Increase education
+- A6 Data collection
+- A7 Land intervention
+- A8 National consensus
+
+---
+
+**FORMATTING RULES:**
+
+- Output EXACTLY 5 plain-text tables, in order: Table 1, Table 2, Table 3, Table 4, Table 5
+- Use tab or single space as column separator
+- Include a header row in every table with exact factor labels (S1, S2, … / A1, A2, …)
+- NO explanations, NO commentary, NO missing values, NO extra text before or after the tables
+- Maintain exact column order: S1–S6, W1–W6, O1–O6, T1–T6 in Table 5
+- Every cell must contain one value from the 9-point scale
+- Keep the tables shapes and layout in a given format
+
+---
+
+**CONSISTENCY RULES:**
+
+- Ground all judgments in the realistic Ghana renewable energy context
+- Be internally consistent across tables — the same subfactor should receive logically related scores in Tables 1–4 and Table 5
+- Avoid arbitrary variation — similar alternatives against similar subfactors should produce similar scores when context supports it
+- If genuinely uncertain, assign **M**
+
+---
+
+BEGIN OUTPUT NOW. Output only the 5 tables. Nothing else.
+
+S1 S2 S3 S4 S5 S6
+H MH MH VH ML H
+
+W1 W2 W3 W4 W5 W6
+VH H H VH MH VH
+
+O1 O2 O3 O4 O5 O6
+MH MH VH H VH VH
+
+T1 T2 T3 T4 T5 T6
+MH H VH VH H H
+
+S1 S2 S3 S4 S5 S6 W1 W2 W3 W4 W5 W6 O1 O2 O3 O4 O5 O6 T1 T2 T3 T4 T5 T6
+MH VH MH H VH MH MH MH MH H VH MH MH VH MH MH H MH MH MH MH MH VH MH
+MH MH MH H H VH H MH H VH MH MH VH H VH H VH VH MH MH MH MH MH MH
+MH MH MH H VH MH MH MH VH H H H MH MH H MH H VH MH ML MH MH MH VH
+MH MH MH VH MH MH MH MH MH MH MH MH MH MH H MH H MH MH MH H H VH MH
+MH MH MH H VH MH MH MH MH MH VH MH MH VH H MH H H MH MH MH MH MH MH
+MH MH MH H H MH MH MH H MH MH H MH MH H MH H H MH MH H H VH MH
+VH MH VH MH ML MH MH VH MH MH MH MH MH MH H MH H MH MH VH MH MH MH ML
+MH VH MH VH MH VH H MH H MH VH H VH VH H VH VH VH MH MH MH VH MH MH
